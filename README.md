@@ -1,4 +1,4 @@
-# Project Title
+# ESP32 Projects
 
 ESP32 Project - Fast Jpeg images in 3.2-inch TFT LCD
 
