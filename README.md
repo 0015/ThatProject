@@ -1,16 +1,25 @@
-# ESP32 Projects
+# IdeasNProjects
 
-ESP32 Project - Fast Jpeg images in 3.2-inch TFT LCD
+Implement all hardware, software ideas  
 
-## Getting Started
+## Projects
 
-* [Youtube](https://youtu.be/4eD6recBq4M) -Instruction
+* [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
+
+* [ESP32 Project - Temperature & Humidity Check App with 1.5inch OLED SSD1351 and DHT11](https://youtu.be/TF4Dm8Lq7Pc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity)
+
+* [ESP32 Project - Hardware SPI vs Software SPI with SSD1351](https://youtu.be/COPe5fKlkqA) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_display_ssd1351_jpeg)
+
+* [ESP32 Project - Fast Jpeg images in 3.2-inch TFT LCD (ILI9341)](https://youtu.be/4eD6recBq4M) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_jpeg)
+
 
 ### Prerequisites
 
 [Hardware]
 - WEMOS LOLIN32 Lite
 - 3.2 inch 320*240 SPI Serial TFT LCD Module Display Screen with Touch Panel Driver IC ILI9341 for MCU
+- Serial SPI 1.5"Color OLED Display 128x128 Graphic Module, SSD1351
+- DHT11 basic temperature-humidity sensor
 
 ## Built With
 
@@ -20,10 +29,28 @@ ESP32 Project - Fast Jpeg images in 3.2-inch TFT LCD
 * [JPEG Functions](https://github.com/Bodmer/JPEGDecoder/blob/master/examples/Adafruit_GFX/Huzzah_Jpeg/JPEG_functions.ino)
 * [EZGIF](https://ezgif.com)
 
-## Authors
 
-* **Eric N** - *Initial work* - [0015](https://0015.github.com)
+### Created & Maintained By
+
+[Eric Nam](https://github.com/0015)
+([Youtube](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w))
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> * [PayPal](http://paypal.me/ericn15x/)
 
 ## License
 
-This project is licensed under the MIT License 
+Copyright 2019 Eric N
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
