@@ -1,0 +1,198 @@
+// Copyright 2017, Paul DeMarco.
+// All rights reserved. Use of this source code is governed by a
+// BSD-style license that can be found in the LICENSE file.
+
+syntax = "proto3";
+
+option java_package = "ai.longev.flutter.flutter_ble";
+option java_outer_classname = "Protos";
+option objc_class_prefix = "Protos";
+
+
+// Wrapper message for `int32`.
+//
+// Allows for nullability of fields in messages
+message Int32Value {
+  // The int32 value.
+  int32 value = 1;
+}
+
+message BluetoothState {
+  enum State {
+    UNKNOWN = 0;
+    UNAVAILABLE = 1;
+    UNAUTHORIZED = 2;
+    TURNING_ON = 3;
+    ON = 4;
+    TURNING_OFF = 5;
+    OFF = 6;
+  };
+  State state = 1;
+}
+
+message AdvertisementData {
+  string local_name = 1;
+  Int32Value tx_power_level = 2;
+  bool connectable = 3;
+  map<int32, bytes> manufacturer_data = 4; // Map of manufacturers to their data
+  map<string, bytes> service_data = 5;  // Map of service UUIDs to their data.
+  repeated string service_uuids = 6;
+}
+
+message ScanSettings {
+  int32 android_scan_mode = 1;
+  repeated string service_uuids = 2;
+}
+
+message ScanResult {
+  BluetoothDevice device = 1;  // The received peer's ID.
+  AdvertisementData advertisement_data = 2;
+  int32 rssi = 3;
+}
+
+message ConnectRequest {
+  string remote_id = 1;
+  bool android_auto_connect = 2;
+}
+
+message BluetoothDevice {
+  enum Type {
+    UNKNOWN = 0;
+    CLASSIC = 1;
+    LE = 2;
+    DUAL = 3;
+  };
+
+  string remote_id = 1;
+  string name = 2;
+  Type type = 3;
+}
+
+message BluetoothService {
+  string uuid = 1;
+  string remote_id = 2;
+  bool is_primary = 3; // Indicates whether the type of service is primary or secondary.
+  repeated BluetoothCharacteristic characteristics = 4; // A list of characteristics that have been discovered in this service.
+  repeated BluetoothService included_services = 5; // A list of included services that have been discovered in this service.
+}
+
+message BluetoothCharacteristic {
+  string uuid = 1;
+  string serviceUuid = 2; // The service that this characteristic belongs to.
+  string secondaryServiceUuid = 3; // The secondary service if nested
+  repeated BluetoothDescriptor descriptors = 4; // A list of descriptors that have been discovered in this characteristic.
+  CharacteristicProperties properties = 5; // The properties of the characteristic.
+  bytes value = 6;
+}
+
+message BluetoothDescriptor {
+  string uuid = 1;
+  string serviceUuid = 2; // The service that this descriptor belongs to.
+  string characteristicUuid = 3; // The characteristic that this descriptor belongs to.
+  bytes value = 4;
+}
+
+message CharacteristicProperties {
+  bool broadcast = 1;
+  bool read = 2;
+  bool write_without_response = 3;
+  bool write = 4;
+  bool notify = 5;
+  bool indicate = 6;
+  bool authenticated_signed_writes = 7;
+  bool extended_properties = 8;
+  bool notify_encryption_required = 9;
+  bool indicate_encryption_required = 10;
+}
+
+message DiscoverServicesResult {
+  string remote_id = 1;
+  repeated BluetoothService services = 2;
+}
+
+message ReadCharacteristicRequest {
+  string remote_id = 1;
+  string characteristic_uuid = 2;
+  string service_uuid = 3;
+  string secondary_service_uuid = 4;
+}
+
+message ReadCharacteristicResponse {
+  string remote_id = 1;
+  BluetoothCharacteristic characteristic = 2;
+}
+
+message ReadDescriptorRequest {
+  string remote_id = 1;
+  string descriptor_uuid = 2;
+  string service_uuid = 3;
+  string secondary_service_uuid = 4;
+  string characteristic_uuid = 5;
+}
+
+message ReadDescriptorResponse {
+  ReadDescriptorRequest request = 1;
+  bytes value = 2;
+}
+
+message WriteCharacteristicRequest {
+  enum WriteType {
+    WITH_RESPONSE = 0;
+    WITHOUT_RESPONSE = 1;
+  }
+  string remote_id = 1;
+  string characteristic_uuid = 2;
+  string service_uuid = 3;
+  string secondary_service_uuid = 4;
+  WriteType write_type = 5;
+  bytes value = 6;
+}
+
+message WriteCharacteristicResponse {
+  WriteCharacteristicRequest request = 1;
+  bool success = 2;
+}
+
+message WriteDescriptorRequest {
+  string remote_id = 1;
+  string descriptor_uuid = 2;
+  string service_uuid = 3;
+  string secondary_service_uuid = 4;
+  string characteristic_uuid = 5;
+  bytes value = 6;
+}
+
+message WriteDescriptorResponse {
+  WriteDescriptorRequest request = 1;
+  bool success = 2;
+}
+
+message SetNotificationRequest {
+  string remote_id = 1;
+  string service_uuid = 2;
+  string secondary_service_uuid = 3;
+  string characteristic_uuid = 4;
+  bool enable = 5;
+}
+
+message SetNotificationResponse {
+  string remote_id = 1;
+  BluetoothCharacteristic characteristic = 2;
+  bool success = 3;
+}
+
+message OnNotificationResponse {
+  string remote_id = 1;
+  BluetoothCharacteristic characteristic = 2;
+}
+
+message DeviceStateResponse {
+  enum BluetoothDeviceState {
+    DISCONNECTED = 0;
+    CONNECTING = 1;
+    CONNECTED = 2;
+    DISCONNECTING = 3;
+  }
+  string remote_id = 1;
+  BluetoothDeviceState state = 2;
+}

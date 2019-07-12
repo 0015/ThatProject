@@ -1,0 +1,44 @@
+PODS:
+  - "!ProtoCompiler (3.7.0)":
+    - Protobuf (~> 3.0)
+  - Flutter (1.0.0)
+  - flutter_ble (0.5.1):
+    - "!ProtoCompiler"
+    - Flutter
+    - flutter_ble/Protos (= 0.5.1)
+  - flutter_ble/Protos (0.5.1):
+    - "!ProtoCompiler"
+    - Flutter
+    - Protobuf
+  - Protobuf (3.7.0)
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_ble (from `.symlinks/plugins/flutter_ble/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - "!ProtoCompiler"
+    - Protobuf
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_ble:
+    :path: ".symlinks/plugins/flutter_ble/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  "!ProtoCompiler": efc8ba4dceb16b48f6b366a08500871c8d3ff8d2
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_ble: 5835e4f47597ddc12fdc6ccef9a45df28511246f
+  Protobuf: 7a877b7f3e5964e3fce995e2eb323dbc6831bb5a
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.6.1
