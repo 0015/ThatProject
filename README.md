@@ -6,6 +6,8 @@ Implement all hardware, software ideas
 
 * [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
 
+* [ESP32 | Flutter | FIREBASE - Flutter application with ESP32 to get the sensor data through FIREBASE realtime DB](https://youtu.be/nVrACWPXi8g) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_firebase_DHT)
+
 * [ESP32 | Flutter | Ble - Flutter application with ESP32 to get the sensor data through BLE](https://youtu.be/13voX5Y9fTc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity_ble_FLUTTER)
 
 * [ESP32 Project - Temperature & Humidity Check App with 1.5inch OLED SSD1351 and DHT11](https://youtu.be/TF4Dm8Lq7Pc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity)
