@@ -6,6 +6,8 @@ Implement all hardware, software ideas
 
 * [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
 
+* [ESP32 | Flutter | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 1](https://youtu.be/sTaa4bGqVwc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder/Esp32_Ultrasonic_module)
+
 * [ESP32 | Flutter | FIREBASE - Flutter application with ESP32 to get the sensor data through FIREBASE realtime DB](https://youtu.be/nVrACWPXi8g) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_firebase_DHT)
 
 * [ESP32 | Flutter | Ble - Flutter application with ESP32 to get the sensor data through BLE](https://youtu.be/13voX5Y9fTc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity_ble_FLUTTER)
@@ -24,9 +26,13 @@ Implement all hardware, software ideas
 - 3.2 inch 320*240 SPI Serial TFT LCD Module Display Screen with Touch Panel Driver IC ILI9341 for MCU
 - Serial SPI 1.5"Color OLED Display 128x128 Graphic Module, SSD1351
 - DHT11 basic temperature-humidity sensor
+- GeeekNET ESP32 Development Board
+- Ultrasonic Sensor US-020 Distance Measuring Module
 
 ## Built With
 
+* [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
+* [Adafruit SSD1351 Arduino Library](https://github.com/adafruit/Adafruit-SSD1351-library)
 * [Adafruit ILI9341 Driver](https://github.com/adafruit/Adafruit_ILI9341/)
 * [Arduino esp32fs plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases)
 * [Arduino JPEGDecoder library](https://github.com/Bodmer/JPEGDecoder)
