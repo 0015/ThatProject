@@ -6,6 +6,8 @@ Implement all hardware, software ideas
 
 * [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
 
+* [ESP32 | Flutter | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 2](https://youtu.be/s_BTQveXpwY) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder)
+
 * [ESP32 | Flutter | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 1](https://youtu.be/sTaa4bGqVwc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder/Esp32_Ultrasonic_module)
 
 * [ESP32 | Flutter | FIREBASE - Flutter application with ESP32 to get the sensor data through FIREBASE realtime DB](https://youtu.be/nVrACWPXi8g) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_firebase_DHT)
