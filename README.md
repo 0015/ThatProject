@@ -6,6 +6,8 @@ Implement all hardware, software ideas
 
 * [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
 
+* [ESP32 | BLE | SERVER - CLIENT](https://youtu.be/jcGIA99V0c0) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_BLE_to_BLE)	
+
 * [ESP32 | Flutter | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 2](https://youtu.be/s_BTQveXpwY) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder)
 
 * [ESP32 | Flutter | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 1](https://youtu.be/sTaa4bGqVwc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder/Esp32_Ultrasonic_module)
