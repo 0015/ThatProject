@@ -6,28 +6,28 @@ Implement all hardware, software ideas
 ## Tutorials
 * [Youtube Unity3d Tutorials](https://www.youtube.com/playlist?list=PLnq7JUnBumAzcQciRTvPZ3Mw_v7j8noOw) 
 
-* [Unity3D | Tutorial | Raycast/Boxcast/Spherecast](https://youtu.be/CoTK39SZft8) (https://github.com/0015/IdeasNProjects/tree/master/Unity3D_RayCasts)	
+* [Unity3D | Tutorial | Raycast/Boxcast/Spherecast](https://youtu.be/CoTK39SZft8) - (https://github.com/0015/IdeasNProjects/tree/master/Unity3D_RayCasts)	
 
 
 ## Projects
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
-* [ESP32 | FLUTER | BLE | Data --* Server (feat. JoyPad)](https://youtu.be/fQz7aajslJc) (https://github.com/0015/IdeasNProjects/tree/master/ESP32_Flutter_JoyPad)
+* [ESP32 | FLUTTER | BLE | Data --* Server (feat. JoyPad)](https://youtu.be/fQz7aajslJc) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_Flutter_JoyPad)
 
-* [ESP32 | Flutter | BLE - Local Notification](https://youtu.be/a71xc5Dm8xU) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_BLE_LocalNoti)
+* [ESP32 | FLUTTER | BLE - Local Notification](https://youtu.be/a71xc5Dm8xU) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_BLE_LocalNoti)
 
-* [ESP32 | BLE | SERVER - CLIENT](https://youtu.be/jcGIA99V0c0) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_BLE_to_BLE)	
+* [ESP32 | BLE | SERVER - CLIENT](https://youtu.be/jcGIA99V0c0) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_BLE_to_BLE)	
 
-* [ESP32 | Flutter | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 2](https://youtu.be/s_BTQveXpwY) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder)
+* [ESP32 | FLUTTER | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 2](https://youtu.be/s_BTQveXpwY) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder)
 
-* [ESP32 | Flutter | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 1](https://youtu.be/sTaa4bGqVwc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder/Esp32_Ultrasonic_module)
+* [ESP32 | FLUTTER | BLE - Ultrasonic Range Finder with 1.5inch OLED, Part 1](https://youtu.be/sTaa4bGqVwc) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_ultrasonic_range_finder/Esp32_Ultrasonic_module)
 
-* [ESP32 | Flutter | FIREBASE - Flutter application with ESP32 to get the sensor data through FIREBASE realtime DB](https://youtu.be/nVrACWPXi8g) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_firebase_DHT)
+* [ESP32 | Flutter | FIREBASE - Flutter application with ESP32 to get the sensor data through FIREBASE realtime DB](https://youtu.be/nVrACWPXi8g) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_firebase_DHT)
 
-* [ESP32 | Flutter | Ble - Flutter application with ESP32 to get the sensor data through BLE](https://youtu.be/13voX5Y9fTc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity_ble_FLUTTER)
+* [ESP32 | Flutter | Ble - Flutter application with ESP32 to get the sensor data through BLE](https://youtu.be/13voX5Y9fTc) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity_ble_FLUTTER)
 
-* [ESP32 Project - Temperature & Humidity Check App with 1.5inch OLED SSD1351 and DHT11](https://youtu.be/TF4Dm8Lq7Pc) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity)
+* [ESP32 Project - Temperature & Humidity Check App with 1.5inch OLED SSD1351 and DHT11](https://youtu.be/TF4Dm8Lq7Pc) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_temperature_humidity)
 
 * [ESP32 Project - Hardware SPI vs Software SPI with SSD1351](https://youtu.be/COPe5fKlkqA) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_display_ssd1351_jpeg)
 
