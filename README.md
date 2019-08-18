@@ -13,6 +13,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | FLUTER | BLE | Data --* Server (feat. JoyPad)](https://youtu.be/fQz7aajslJc) (https://github.com/0015/IdeasNProjects/tree/master/ESP32_Flutter_JoyPad)
+
 * [ESP32 | Flutter | BLE - Local Notification](https://youtu.be/a71xc5Dm8xU) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_BLE_LocalNoti)
 
 * [ESP32 | BLE | SERVER - CLIENT](https://youtu.be/jcGIA99V0c0) (https://github.com/0015/IdeasNProjects/tree/master/Esp32_BLE_to_BLE)	
