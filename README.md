@@ -13,6 +13,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | FLUTTER | BLE | WIFI - HOW TO UPDATE WIFI SSID & PW VIA BLE in ESP32](https://youtu.be/-N52wL8xQzM) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_wifi_ssid_pw_via_ble)
+
 * [ESP32 | FLUTTER | BLE | Data --* Server (feat. JoyPad)](https://youtu.be/fQz7aajslJc) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_Flutter_JoyPad)
 
 * [ESP32 | FLUTTER | BLE - Local Notification](https://youtu.be/a71xc5Dm8xU) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_BLE_LocalNoti)
