@@ -7,6 +7,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | FLUTTER | USB SERIAL - UPDATE WIFI CREDENTIALS VIA USB SERIAL (FEAT. UART)](https://youtu.be/MrGpDgAk_0s) - (https://github.com/0015/IdeasNProjects/tree/master/ESp32_Flutter_Android_wifi_credential_update_via_USB)
+
 * [ESP32 | FLUTTER | USB SERIAL - HOW TO CONNECT THE ESP32 TO THE ANDROID(FLUTTER) USING THE USB CABLE (feat. UART)](https://youtu.be/zk0xY88l6Rc) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_Android_usb_serial_comm)
 
 * [ESP32 | FLUTTER | BLE | WIFI - HOW TO UPDATE WIFI SSID & PW VIA BLE in ESP32](https://youtu.be/-N52wL8xQzM) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_wifi_ssid_pw_via_ble)
