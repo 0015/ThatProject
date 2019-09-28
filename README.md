@@ -7,6 +7,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | FLUTTER | BLE - Dust Sensor, A simple Air Monitor App (with Graph)](https://youtu.be/w6jo2kJanqU) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_dust_sensor_ble_FLUTTER)
+
 * [ESP32 | FLUTTER | WIFI | USB SERIAL - UPDATE WIFI CREDENTIALS VIA USB SERIAL (FEAT. UART)](https://youtu.be/Be0vYIiJlyg) - (https://github.com/0015/IdeasNProjects/tree/master/ESp32_Flutter_Android_wifi_credential_update_via_USB)
 
 * [ESP32 | FLUTTER | USB SERIAL - HOW TO CONNECT THE ESP32 TO THE ANDROID(FLUTTER) USING THE USB CABLE (feat. UART)](https://youtu.be/zk0xY88l6Rc) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_Flutter_Android_usb_serial_comm)
