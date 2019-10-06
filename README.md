@@ -7,6 +7,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | FLUTTER | BLE - MPU6050, Rotate your 3d object in the app](https://youtu.be/FMZO4UTVZBk) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_MPU6050_ble_FLUTTER)
+
 * [ESP32 | FLUTTER | BLE - Dust Sensor, A simple Air Monitor App (with Graph)](https://youtu.be/w6jo2kJanqU) - (https://github.com/0015/IdeasNProjects/tree/master/Esp32_dust_sensor_ble_FLUTTER)
 
 * [ESP32 | FLUTTER | WIFI | USB SERIAL - UPDATE WIFI CREDENTIALS VIA USB SERIAL (FEAT. UART)](https://youtu.be/Be0vYIiJlyg) - (https://github.com/0015/IdeasNProjects/tree/master/ESp32_Flutter_Android_wifi_credential_update_via_USB)
