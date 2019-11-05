@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <title>Client</title>
+    </head>
+    <body>
+        <img src="">
+        <script>
+            const img = document.querySelector('img');
+            const WS_URL = 'ws:///192.168.1.220:8888';
+            const ws = new WebSocket(WS_URL);
+            let urlObject;
+            ws.onopen = () => console.log(`Connected to ${WS_URL}`);
+            ws.onmessage = message => {
+                const arrayBuffer = message.data;
+                if(urlObject){
+                    URL.revokeObjectURL(urlObject);
+                }
+                urlObject = URL.createObjectURL(new Blob([arrayBuffer]));
+                img.src = urlObject;
+            }
+        </script>
+    </body>
+</html>
