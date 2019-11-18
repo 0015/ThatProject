@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - save_in_gallery (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - save_in_gallery (from `.symlinks/plugins/save_in_gallery/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  save_in_gallery:
+    :path: ".symlinks/plugins/save_in_gallery/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  save_in_gallery: 75c1d76566ed1af3a266f25b38c6c19a1d019a66
+
+PODFILE CHECKSUM: 0cb100d8fda1a63b71e4bab981c082b9a1a973fb
+
+COCOAPODS: 1.7.5
