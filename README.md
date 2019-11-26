@@ -7,6 +7,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 CAM with Flutter | Tutorial - [Part.4] Video Recording with FFmpeg (Baby Monitor)](https://youtu.be/Z5vBs8Mk5rA) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_Xiaomi_Clone_FLUTTER/flutter_xiaomi_clone_app_ffmpeg)
+
 * [ESP32 CAM with Flutter | Tutorial - [Part.3] Xiaomi YI Home App Clone (Baby Monitor)](https://youtu.be/9GyOTlOGjSA) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_Xiaomi_Clone_FLUTTER/flutter_xiaomi_clone_app)
 
 * [ESP32 CAM with Arduino IDE | Tutorial - [Part.2] World Wide Access to ESP32CAM (feat. GCP)](https://youtu.be/CpIkG9N5-JM) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_GoogleCloudServer)
