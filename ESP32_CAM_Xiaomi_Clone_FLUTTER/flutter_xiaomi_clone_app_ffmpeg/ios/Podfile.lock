@@ -1,0 +1,53 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_ffmpeg/full (0.2.8):
+    - Flutter
+    - mobile-ffmpeg-full (= 4.3)
+  - fluttertoast (0.0.2):
+    - Flutter
+  - gallery_saver (0.0.1):
+    - Flutter
+  - mobile-ffmpeg-full (4.3)
+  - path_provider (0.0.1):
+    - Flutter
+  - save_in_gallery (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_ffmpeg/full (from `.symlinks/plugins/flutter_ffmpeg/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - gallery_saver (from `.symlinks/plugins/gallery_saver/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - save_in_gallery (from `.symlinks/plugins/save_in_gallery/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - mobile-ffmpeg-full
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_ffmpeg:
+    :path: ".symlinks/plugins/flutter_ffmpeg/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  gallery_saver:
+    :path: ".symlinks/plugins/gallery_saver/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  save_in_gallery:
+    :path: ".symlinks/plugins/save_in_gallery/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_ffmpeg: c515a3a8a2d4e070fd684e85b2dd2084c749a585
+  fluttertoast: b644586ef3b16f67fae9a1f8754cef6b2d6b634b
+  gallery_saver: 9fc173c9f4fcc48af53b2a9ebea1b643255be542
+  mobile-ffmpeg-full: af38edede256cb1d4fcbf10dddef39bf529ecd50
+  path_provider: fb74bd0465e96b594bb3b5088ee4a4e7bb1f2a9d
+  save_in_gallery: 75c1d76566ed1af3a266f25b38c6c19a1d019a66
+
+PODFILE CHECKSUM: 48c04cd2b75cc1b4d0b826705e13c9b78a4ccde7
+
+COCOAPODS: 1.7.5

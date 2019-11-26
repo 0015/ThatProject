@@ -1,0 +1,1 @@
+{"dependencyGraph":[{"name":"flutter_ffmpeg","dependencies":[]},{"name":"fluttertoast","dependencies":[]},{"name":"gallery_saver","dependencies":["path_provider"]},{"name":"path_provider","dependencies":[]},{"name":"save_in_gallery","dependencies":[]}]}
