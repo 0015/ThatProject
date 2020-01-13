@@ -7,6 +7,9 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+
+* [ESP32 | LittlevGL | Arduino IDE - [Part.0] Touch Display Setup for Simple Note App📝](https://youtu.be/OXUZEHMFFwc) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part0)
+
 * [ESP32 CAM | Google Vision - [Part.7] AI Camera📷🔥(Image labeling)](https://youtu.be/bpCCqerQ56o) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_AICamera_Labelling)
 
 * [ESP32 CAM | Flutter App - [Part.6] In wireless directly, a mobile app connecting ESP32CAM (Dash Cam)](https://youtu.be/6FUbo9HRCoU) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_Dashcam_FLUTTER)
