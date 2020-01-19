@@ -1,6 +1,7 @@
 # That Project
 
-Implement all hardware, software ideas  
+Implement all hardware, software ideas
+  
 * [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
 
 ## Projects
