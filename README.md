@@ -8,6 +8,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | LittlevGL | Arduino IDE - [Part.2] By LittlevGL for Simple Note App📝](https://youtu.be/PIzMeCShNZA) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part2)
+
 * [ESP32 | LittlevGL | Arduino IDE - [Part.1] Basic LittlevGL for Simple Note App📝](https://youtu.be/dErIWm-IVhc) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part1)
 
 * [ESP32 | LittlevGL | Arduino IDE - [Part.0] Touch Display Setup for Simple Note App📝](https://youtu.be/OXUZEHMFFwc) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part0)
