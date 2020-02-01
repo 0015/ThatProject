@@ -8,6 +8,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [NodeMCU(ESP8266) | GPS | ILI9488 - Showing the Latitude and Longitude on Display](https://youtu.be/9wrHhbfYFXg) - (https://github.com/0015/IdeasNProjects/tree/master/ESP8266_BASIC_GPS)
+
 * [ESP32 | LittlevGL | Arduino IDE - [Part.2] By LittlevGL for Simple Note App📝](https://youtu.be/PIzMeCShNZA) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part2)
 
 * [ESP32 | LittlevGL | Arduino IDE - [Part.1] Basic LittlevGL for Simple Note App📝](https://youtu.be/dErIWm-IVhc) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part1)
@@ -66,10 +68,13 @@ Implement all hardware, software ideas
 [Hardware]
 - WEMOS LOLIN32 Lite
 - 3.2 inch 320*240 SPI Serial TFT LCD Module Display Screen with Touch Panel Driver IC ILI9341 for MCU
+- 3.5 inch 480*320 SPI Serial TFT LCD Module Display Screen with Touch Panel Driver IC ILI9488 for MCU
 - Serial SPI 1.5"Color OLED Display 128x128 Graphic Module, SSD1351
 - DHT11 basic temperature-humidity sensor
 - GeeekNET ESP32 Development Board
 - Ultrasonic Sensor US-020 Distance Measuring Module
+- NodeMCU, ESP8266
+- BN-282 GPS Module
 
 ## Built With
 
@@ -78,8 +83,8 @@ Implement all hardware, software ideas
 * [Adafruit ILI9341 Driver](https://github.com/adafruit/Adafruit_ILI9341/)
 * [Arduino esp32fs plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases)
 * [Arduino JPEGDecoder library](https://github.com/Bodmer/JPEGDecoder)
-* [JPEG Functions](https://github.com/Bodmer/JPEGDecoder/blob/master/examples/Adafruit_GFX/Huzzah_Jpeg/JPEG_functions.ino)
-* [EZGIF](https://ezgif.com)
+* [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
+* [Arduino TJpg_Decoder library](https://github.com/Bodmer/TJpg_Decoder)
 
 
 ### Created & Maintained By
@@ -87,13 +92,10 @@ Implement all hardware, software ideas
 [Eric Nam](https://github.com/0015)
 ([Youtube](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w))
 
-> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
->
-> * [PayPal](http://paypal.me/ericn15x/)
 
 ## License
 
-Copyright 2019 Eric N
+Copyright 2020 Eric N
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
