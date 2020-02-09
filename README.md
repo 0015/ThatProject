@@ -8,6 +8,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [NodeMCU(ESP8266) | GPS | ILI9488 - Showing Google Map with Device Position on Display🗺️](https://youtu.be/lQ157ftTnSs) - (https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GOOGLEMAP_GPS)
+
 * [NodeMCU(ESP8266) | GPS | ILI9488 - Showing the Latitude and Longitude on Display](https://youtu.be/9wrHhbfYFXg) - (https://github.com/0015/IdeasNProjects/tree/master/ESP8266_BASIC_GPS)
 
 * [ESP32 | LittlevGL | Arduino IDE - [Part.2] By LittlevGL for Simple Note App📝](https://youtu.be/PIzMeCShNZA) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part2)
