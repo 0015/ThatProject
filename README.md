@@ -4,15 +4,20 @@ Implement all hardware, software ideas
   
 * [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
 
-## Projects
-
-* [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
+## NodeMCU(ESP8266) Projects
+* [Youtube NodeMCU(ESP8266) Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAxh2Sr-vKQYxeyW7a6qje7x) 
 
 * [NodeMCU(ESP8266) | GPS | CSV Data Logging - GPS Tracker (feat. GPS Visualizer)🛰️](https://youtu.be/edD3X6KG8AE) - (https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GPS_DATA_LOG/ESP8266_GPS_TRACKER)
 
 * [NodeMCU(ESP8266) | GPS | ILI9488 - Showing Google Map with Device Position on Display🗺️](https://youtu.be/lQ157ftTnSs) - (https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GOOGLEMAP_GPS)
 
 * [NodeMCU(ESP8266) | GPS | ILI9488 - Showing the Latitude and Longitude on Display](https://youtu.be/9wrHhbfYFXg) - (https://github.com/0015/IdeasNProjects/tree/master/ESP8266_BASIC_GPS)
+
+## ESP32 Projects
+
+* [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
+
+* [ESP32 | INMP441 | Tutorial - [Part.0] Set up I2S for Microphone](https://youtu.be/m8LwPNXqK9o) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_SETUP)
 
 * [ESP32 | LittlevGL | Arduino IDE - [Part.2] By LittlevGL for Simple Note App📝](https://youtu.be/PIzMeCShNZA) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part2)
 
