@@ -17,6 +17,10 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | INMP441 | Tutorial - [Part.2] Emitting Sound Level Meter through BLE (ft. FreeRTOS)](https://youtu.be/F88HRGTiiNw) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_SLM_BLE)
+
+* [ESP32 | INMP441 | Introduce - [Part.1] Sound Level Meter](https://youtu.be/QREKVWaZLi4) 
+
 * [ESP32 | INMP441 | Tutorial - [Part.0] Set up I2S for Microphone](https://youtu.be/m8LwPNXqK9o) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_SETUP)
 
 * [ESP32 | LittlevGL | Arduino IDE - [Part.2] By LittlevGL for Simple Note App📝](https://youtu.be/PIzMeCShNZA) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part2)
