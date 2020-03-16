@@ -17,6 +17,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | INMP441 | Tutorial - [Part.4] Capturing audio from i2s mic to save WAV file (I2S interface)](https://youtu.be/qmruNKeIN-o) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_RECORDING)
+
 * [ESP32 | INMP441 | Flutter | Tutorial - [Part.3] App for Sound Level Meter Viewer (ft. BLE Client)](https://youtu.be/CcLt-nBLWJU) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_FLUTTER_BLE_APP/flutter_app_slm)
 
 * [ESP32 | INMP441 | Tutorial - [Part.2] Emitting Sound Level Meter through BLE (ft. FreeRTOS)](https://youtu.be/F88HRGTiiNw) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_SLM_BLE)
