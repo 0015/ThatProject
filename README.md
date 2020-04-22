@@ -7,6 +7,8 @@ Implement all hardware, software ideas
 ## NodeMCU(ESP8266) Projects
 * [Youtube NodeMCU(ESP8266) Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAxh2Sr-vKQYxeyW7a6qje7x) 
 
+* [FIREBASE | Streaming from ESP32 to ESP8266(Ft. DHT11 - Temperature, Humidity & Heat Index)](https://youtu.be/pZRHzfnaOGE) - (https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP32_TO_ESP8266)
+
 * [ESP-NOW | Communication between NodeMCU(ESP8266) as [Master] and two ESP32 as [Slave]](https://youtu.be/F_h22AXZ7ts) - (https://github.com/0015/IdeasNProjects/tree/master/ESPNOW/ESPNOW_ESP8266_MASTER_ESP32_SLAVE)
 
 * [NodeMCU(ESP8266) | GPS | CSV Data Logging - GPS Tracker (feat. GPS Visualizer)🛰️](https://youtu.be/edD3X6KG8AE) - (https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GPS_DATA_LOG/ESP8266_GPS_TRACKER)
