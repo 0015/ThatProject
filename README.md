@@ -23,6 +23,8 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Let's build BT Serial based on the examples. (Ft. Chat App)](https://youtu.be/WUw-_X66dLE) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_BLUETOOTH_SERIAL_DEMO)
+
 * [ESP32CAM | INMP441 - Doorbell🚪🔔 Project Rev.1 (Ft. Telegram)](https://youtu.be/Fj21iHHUvf4) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_DOORBELL/Rev.1)
 
 * [ESP32 | INMP441 | Tutorial - [Part.5] Speech-to-Text Powered by Google Cloud machine learning](https://youtu.be/RZVzZfndIS0) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_SPEECH_TO_TEXT)
