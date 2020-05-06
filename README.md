@@ -7,7 +7,7 @@ Implement all hardware, software ideas
 ## NodeMCU(ESP8266) Projects
 * [Youtube NodeMCU(ESP8266) Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAxh2Sr-vKQYxeyW7a6qje7x) 
 
-* [FIREBASE | FLUTTER | Stream builder from Realtime DB to Flutter(iOS, Android)](https://youtu.be/uoQtH2IYBCU) - (https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP_TO_FLUTTER/flutter_realtime_dht11)
+* [FIREBASE | FLUTTER | Stream builder from Realtime DB to Flutter(iOS, Android)][Video](https://youtu.be/uoQtH2IYBCU)[Source Code](https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP_TO_FLUTTER/flutter_realtime_dht11)
 
 * [FIREBASE | Streaming from ESP32 to ESP8266(Ft. DHT11 - Temperature, Humidity & Heat Index)](https://youtu.be/-iKCn9lTD2Q) - (https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP32_TO_ESP8266)
 
@@ -23,7 +23,9 @@ Implement all hardware, software ideas
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
-* [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Let's build BT Serial based on the examples. (Ft. Chat App)](https://youtu.be/WUw-_X66dLE) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_BLUETOOTH_SERIAL_DEMO)
+<!-- * [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Let's build BT Serial based on the examples. (Ft. Chat App)](https://youtu.be/WUw-_X66dLE) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_BLUETOOTH_SERIAL_DEMO) -->
+
+[![ESP32 | BLUETOOTH CLASSIC | FLUTTER - Let's build BT Serial based on the examples. (Ft. Chat App)](http://http://img.youtube.com/vi/WUw-_X66dLE/0.jpg)](https://youtu.be/WUw-_X66dLE)[Source Code](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_BLUETOOTH_SERIAL_DEMO)
 
 * [ESP32CAM | INMP441 - Doorbell🚪🔔 Project Rev.1 (Ft. Telegram)](https://youtu.be/Fj21iHHUvf4) - (https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_DOORBELL/Rev.1)
 
