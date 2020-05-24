@@ -23,6 +23,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | BLUETOOTH CLASSIC | FLUTTER - *Realtime* Audio Recorder🗣️🎙️(ft. INMP441)][[Video]](https://youtu.be/AFGC9iYBxFQ)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_INMP441_BT_SERIAL)
+
 * [ESP32CAM | BLUETOOTH CLASSIC | FLUTTER - TWO-WAY Serial BT Communication (ft. uint8_t* buffer)🖼️][[Video]](https://youtu.be/Fl3tDWzTWk8)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32CAM_BT_SERIAL)
 
 * [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Let's build BT Serial based on the examples. (Ft. Chat App)][[Video]](https://youtu.be/WUw-_X66dLE)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_BLUETOOTH_SERIAL_DEMO)
