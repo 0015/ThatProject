@@ -165,7 +165,7 @@ void wavHeader(byte* header, int wavSize){
   header[27] = 0x00;
   header[28] = 0x00;
   header[29] = 0x7D;
-  header[30] = 0x01;
+  header[30] = 0x00;
   header[31] = 0x00;
   header[32] = 0x02;
   header[33] = 0x00;
