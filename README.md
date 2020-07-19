@@ -23,6 +23,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.8] Multiple CAM Dashboard (ft. Modified Jpeg Header)][[Video]](https://youtu.be/rTY2Ibk-gco)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM)
+
 * [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Generate your own QR code and display it on the SSD1351🔲][[Video]](https://youtu.be/7HLh-7vONT4)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_SSD1351_QR_BT_SERIAL)
 
 * [ESP32 | BLUETOOTH CLASSIC | FLUTTER - *Realtime* Audio Recorder🗣️🎙️(ft. INMP441)][[Video]](https://youtu.be/AFGC9iYBxFQ)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_INMP441_BT_SERIAL)
