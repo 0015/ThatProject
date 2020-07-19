@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+html {
+    font-size: 22px;
+    background-color: steelblue;
+}
+
+h1,
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+body {
+    color: whitesmoke;
+    padding: 1rem;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: lightgrey;
+    color: black;
+    padding: 1rem;
+}
+
+.cards {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 1rem;
+}
+
+/* Screen larger than 800px? 2 column */
+@media (min-width: 800px) {
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

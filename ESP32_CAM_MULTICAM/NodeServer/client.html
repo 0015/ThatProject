@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="/styles.css"> 
+    <title>Web browser Client</title>
+</head>
+
+<body>
+    <h1>MULTIPLE ESP32CAM DASHBOARD</h1>
+    <div class="cards">
+        <div class="card">
+            <img id="ESP32-1" src=""/>
+            <h2><b>CAM 1</b></h2>
+        </div>
+
+        <div class="card">
+            <img id="ESP32-2" src="" />
+            <h2><b>CAM 2</b></h2>
+        </div>
+    </div>
+    
+    <script>
+        const img_1 = document.getElementById("ESP32-1");
+        const img_2 = document.getElementById("ESP32-2");
+        var imageFrame;
+
+        const WS_URL = 'ws:///<YOUR_LOCAL_IP_ADDRESS_HERE>:8888';
+        const ws = new WebSocket(WS_URL);
+        let urlObject;
+        ws.onopen = () => {
+            console.log(`Connected to ${WS_URL}`);
+            ws.send("WEB_CLIENT");
+        };
+
+        ws.onmessage = async (message) => {
+            const arrayBuffer = message.data;
+            if (urlObject) {
+                URL.revokeObjectURL(urlObject);
+            }
+            var blobObj = new Blob([arrayBuffer]);
+            const buf = await blobObj.arrayBuffer();
+            var uint8 = new Uint8Array(buf.slice(12, 13));
+            var currentCam = uint8[0];
+            console.log("current Cam: ", currentCam);
+
+            imageFrame = (currentCam == 1) ? img_1 : img_2;
+
+
+            urlObject = URL.createObjectURL(blobObj);
+            imageFrame.src = urlObject;
+        }
+    </script>
+</body>
+
+</html>
