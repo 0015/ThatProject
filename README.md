@@ -23,9 +23,9 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
-* [ESP32 CAM with Arduino IDE | Tutorial - [Part.9] Multiple CAM Dashboard With New Features (ft. ⏯️🔴💾)][[Video]](https://youtu.be/ba9NLj0FKRU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.9%20-%20Multiple%20CAM%20Dashboard%20with%20new%20features)
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.9] Multiple CAM Dashboard With New Features (ft. ⏯️🔴💾)][[Video]](https://youtu.be/ba9NLj0FKRU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.9-Multiple_CAM_Dashboard_with_new_features)
 
-* [ESP32 CAM with Arduino IDE | Tutorial - [Part.8] Multiple CAM Dashboard (ft. Modified Jpeg Header)][[Video]](https://youtu.be/rTY2Ibk-gco)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.8%20-%20Multiple%20CAM%20Dashboard)
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.8] Multiple CAM Dashboard (ft. Modified Jpeg Header)][[Video]](https://youtu.be/rTY2Ibk-gco)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.8-Multiple_CAM_Dashboard)
 
 * [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Generate your own QR code and display it on the SSD1351🔲][[Video]](https://youtu.be/7HLh-7vONT4)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_SSD1351_QR_BT_SERIAL)
 
