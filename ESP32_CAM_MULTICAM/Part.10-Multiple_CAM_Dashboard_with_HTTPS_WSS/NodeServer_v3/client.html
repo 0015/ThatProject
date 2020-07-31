@@ -1,0 +1,134 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="/styles.css">
+    <title>Web browser Client</title>
+</head>
+
+<body>
+    <h1>MULTIPLE ESP32CAM SECURE DASHBOARD</h1>
+    <div class="cards">
+        <div class="card">
+            <img id="ESP32-1" src="" />
+            <h2><b>CAM 1 Live <span class="dot" id="cam_1_red_dot" style="visibility: hidden;"></span></b></h2>
+            <button class="button" id="cam_1_enabler" onclick="buttonFunc('cam_1_enabler')">Play</button>
+            <button class="button" id="cam_1_save" onclick="saveFunc('cam_1_enabler')"
+                style="background-color: #008cba;">Save to Image</button>
+        </div>
+
+        <div class="card">
+            <img id="ESP32-2" src="" />
+            <h2><b>CAM 2 Live <span class="dot" id="cam_2_red_dot" style="visibility: hidden;"></span></b></h2>
+            <button class="button" id="cam_2_enabler" onclick="buttonFunc('cam_2_enabler')">Play</button>
+            <button class="button" id="cam_2_save" onclick="saveFunc('cam_2_enabler')"
+                style="background-color: #008cba;">Save to Image</button>
+        </div>
+    </div>
+
+    <script>
+        const img_1 = document.getElementById("ESP32-1");
+        const img_2 = document.getElementById("ESP32-2");
+        var imageFrame;
+
+        console.log("host :", window.location.hostname);
+
+        const WS_URL = 'wss://' + window.location.hostname;
+        const ws = new WebSocket(WS_URL);
+        let urlObject_1, urlObject_2;
+
+        window["cam_1_enabler"] = false;
+        window["cam_2_enabler"] = false;
+
+        function saveFunc(source) {
+            var blobUrl = source === "cam_1_enabler" ? img_1.src : img_2.src;
+            if (blobUrl.indexOf("blob") == -1) {
+                return;
+            }
+            var fileName = getFomattedTime(source === "cam_1_enabler" ? "ESP32CAM1" : "ESP32CAM2") + ".jpeg";
+            forceDownload(blobUrl, fileName);
+        }
+
+        function getFomattedTime(camInfo) {
+            var today = new Date();
+            var y = today.getFullYear();
+            var m = today.getMonth() + 1;
+            var d = today.getDate();
+            var h = today.getHours();
+            var mi = today.getMinutes();
+            var s = today.getSeconds();
+            return camInfo + "-" + y + "-" + m + "-" + d + "-" + h + "-" + mi + "-" + s;
+        }
+
+        function forceDownload(url, fileName) {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", url, true);
+            xhr.responseType = "blob";
+            xhr.onload = function () {
+                var urlCreator = window.URL || window.webkitURL;
+                var imageUrl = urlCreator.createObjectURL(this.response);
+                var tag = document.createElement("a");
+                tag.href = imageUrl;
+                tag.download = fileName;
+                document.body.appendChild(tag);
+                tag.click();
+                document.body.removeChild(tag);
+            };
+            xhr.send();
+        }
+
+        function buttonFunc(source) {
+            var x = document.getElementById(source);
+            if (x.innerHTML === "Play") {
+                x.innerHTML = "Pause";
+                window[source] = true;
+            } else {
+                x.innerHTML = "Play";
+                window[source] = false;
+            }
+        }
+
+        function hideRedDot() {
+            document.getElementById("cam_1_red_dot").style.visibility = "hidden";
+            document.getElementById("cam_2_red_dot").style.visibility = "hidden";
+        }
+
+        setInterval(hideRedDot, 1000);
+
+        ws.onopen = () => {
+            console.log(`Connected to ${WS_URL}`);
+            ws.send("WEB_CLIENT");
+        };
+
+        ws.onmessage = async (message) => {
+            const arrayBuffer = message.data;
+
+            var blobObj = new Blob([arrayBuffer]);
+            const buf = await blobObj.arrayBuffer();
+            var uint8 = new Uint8Array(buf.slice(12, 13));
+            var currentCam = uint8[0];
+            console.log("current Cam: ", currentCam);
+
+            if (currentCam == 1) {
+                imageFrame = img_1;
+                document.getElementById("cam_1_red_dot").style.visibility = "visible";
+                if (!window["cam_1_enabler"]) return;
+                if (urlObject_1) {
+                    URL.revokeObjectURL(urlObject_1);
+                }
+                urlObject_1 = URL.createObjectURL(blobObj);
+                imageFrame.src = urlObject_1;
+            } else {
+                imageFrame = img_2;
+                document.getElementById("cam_2_red_dot").style.visibility = "visible";
+                if (!window["cam_2_enabler"]) return;
+                if (urlObject_2) {
+                    URL.revokeObjectURL(urlObject_2);
+                }
+                urlObject_2 = URL.createObjectURL(blobObj);
+                imageFrame.src = urlObject_2;
+            }
+        }
+    </script>
+</body>
+
+</html>
