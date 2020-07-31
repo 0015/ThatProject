@@ -23,6 +23,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.10] Multiple CAM Secure Dashboard (ft. HTTPS, WSS)🔒][[Video]](https://youtu.be/mxfj5Jg206A)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.10-Multiple_CAM_Dashboard_with_HTTPS_WSS)
+
 * [ESP32 CAM with Arduino IDE | Tutorial - [Part.9] Multiple CAM Dashboard With New Features (ft. ⏯️🔴💾)][[Video]](https://youtu.be/ba9NLj0FKRU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.9-Multiple_CAM_Dashboard_with_new_features)
 
 * [ESP32 CAM with Arduino IDE | Tutorial - [Part.8] Multiple CAM Dashboard (ft. Modified Jpeg Header)][[Video]](https://youtu.be/rTY2Ibk-gco)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.8-Multiple_CAM_Dashboard)
