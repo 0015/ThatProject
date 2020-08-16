@@ -7,6 +7,8 @@ Implement your project in an exquisite combination of hardware and software.
 ## NodeMCU(ESP8266) Projects
 * [Youtube NodeMCU(ESP8266) Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAxh2Sr-vKQYxeyW7a6qje7x) 
 
+* [Twitter Hash Search Application with #️⃣NodeMCU(ESP8266) #️⃣ILI9341][[Video]](https://youtu.be/lhOlv6Y4_vw)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_Twitter_Hash_Search)
+
 * [FIREBASE | FLUTTER | Stream builder from Realtime DB to Flutter(iOS, Android)][[Video]](https://youtu.be/uoQtH2IYBCU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP_TO_FLUTTER/flutter_realtime_dht11)
 
 * [FIREBASE | Streaming from ESP32 to ESP8266(Ft. DHT11 - Temperature, Humidity & Heat Index)][[Video]](https://youtu.be/-iKCn9lTD2Q)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP32_TO_ESP8266)
