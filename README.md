@@ -53,11 +53,11 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [ESP32 | INMP441 | Tutorial - [Part.0] Set up I2S for Microphone][[Video]](https://youtu.be/m8LwPNXqK9o)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_SETUP)
 
-* [ESP32 | LittlevGL | Arduino IDE - [Part.2] By LittlevGL for Simple Note App📝][[Video]](https://youtu.be/PIzMeCShNZA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part2)
+* [ESP32 | LittlevGL | Arduino IDE - [Part.2] By LittlevGL for Simple Note App📝][[Video]](https://youtu.be/PIzMeCShNZA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/SimpleNoteAPP_LVGL6/Part2)
 
-* [ESP32 | LittlevGL | Arduino IDE - [Part.1] Basic LittlevGL for Simple Note App📝][[Video]](https://youtu.be/dErIWm-IVhc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part1)
+* [ESP32 | LittlevGL | Arduino IDE - [Part.1] Basic LittlevGL for Simple Note App📝][[Video]](https://youtu.be/dErIWm-IVhc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/SimpleNoteAPP_LVGL6/Part1)
 
-* [ESP32 | LittlevGL | Arduino IDE - [Part.0] Touch Display Setup for Simple Note App📝][[Video]](https://youtu.be/OXUZEHMFFwc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LITTLEVGL_ARDUINO_IDE/Part0)
+* [ESP32 | LittlevGL | Arduino IDE - [Part.0] Touch Display Setup for Simple Note App📝][[Video]](https://youtu.be/OXUZEHMFFwc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/SimpleNoteAPP_LVGL6/Part0)
 
 * [ESP32 CAM | Google Vision - [Part.7] AI Camera📷🔥(Image labeling)][[Video]](https://youtu.be/bpCCqerQ56o)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_AICamera_Labelling)
 
