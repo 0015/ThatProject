@@ -1,13 +1,12 @@
 #include "WiFi.h"
 #include <ESP32Ping.h>
 #include <lvgl.h>
-#include <Ticker.h>
 #include <TFT_eSPI.h>
 TFT_eSPI tft = TFT_eSPI();
 
 int screenWidth = 320;
 int screenHeight = 480;
-static lv_color_t buf[LV_HOR_RES_MAX * 10];
+static lv_color_t buf[LV_HOR_RES_MAX * LV_VER_RES_MAX / 10];
 static lv_disp_buf_t disp_buf;
 
 TaskHandle_t ntScanTaskHandler;
@@ -113,11 +112,10 @@ void guiTask(void *pvParameters) {
     uint16_t calData[5] = { 295, 3493, 320, 3602, 2 };
     tft.setTouch(calData);
 
-    lv_disp_buf_init(&disp_buf, buf, NULL, LV_HOR_RES_MAX * 10);
 
+    lv_disp_buf_init(&disp_buf, buf, NULL, LV_HOR_RES_MAX * LV_VER_RES_MAX / 10);
     lv_disp_drv_t disp_drv;
     lv_disp_drv_init(&disp_drv);
-    disp_drv.flush_cb = my_disp_flush;
 
     disp_drv.hor_res = screenWidth;
     disp_drv.ver_res = screenHeight;
@@ -140,7 +138,11 @@ void guiTask(void *pvParameters) {
 }
 
 static void lv_main(){
-    lv_theme_t * th = lv_theme_material_init(LV_THEME_DEFAULT_COLOR_PRIMARY, LV_THEME_DEFAULT_COLOR_SECONDARY, LV_THEME_DEFAULT_FLAG, LV_THEME_DEFAULT_FONT_SMALL , LV_THEME_DEFAULT_FONT_NORMAL, LV_THEME_DEFAULT_FONT_SUBTITLE, LV_THEME_DEFAULT_FONT_TITLE);     
+    
+    //LV_THEME_MATERIAL_FLAG_LIGHT
+    //LV_THEME_MATERIAL_FLAG_DARK
+    
+    lv_theme_t * th = lv_theme_material_init(LV_THEME_DEFAULT_COLOR_PRIMARY, LV_THEME_DEFAULT_COLOR_SECONDARY, LV_THEME_MATERIAL_FLAG_LIGHT, LV_THEME_DEFAULT_FONT_SMALL , LV_THEME_DEFAULT_FONT_NORMAL, LV_THEME_DEFAULT_FONT_SUBTITLE, LV_THEME_DEFAULT_FONT_TITLE);     
     lv_theme_set_act(th);
 
     lv_obj_t * scr = lv_obj_create(NULL, NULL);
@@ -152,7 +154,6 @@ static void lv_main(){
     lv_obj_set_style_local_bg_color(bg_top, LV_OBJ_PART_MAIN, LV_STATE_DEFAULT,LV_COLOR_NAVY);
     lv_obj_set_size(bg_top, LV_HOR_RES, 50);
     
-
     bg_middle = lv_obj_create(scr, NULL);
     lv_obj_clean_style_list(bg_middle, LV_OBJ_PART_MAIN);
     lv_obj_set_style_local_bg_opa(bg_middle, LV_OBJ_PART_MAIN, LV_STATE_DEFAULT,LV_OPA_COVER);
