@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [💬Chat App | ESP32 + ESP-NOW + LVGL7 | Part 1/2 - LVGL UI Layout][[Video]](https://youtu.be/zRLQPF5417Y)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ChatApp_LVGL7/Step_1_UI)
+
 * [ESP32 Dynamic WIFI configuration GUI using LVGL7.x][[Video]](https://youtu.be/AvJms6_Pf_o)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/DynamicWIFIConnector_LVGL7)
 
 * [ESP32 CAM with Arduino IDE | Tutorial - [Part.10] Multiple CAM Secure Dashboard (ft. HTTPS, WSS)🔒][[Video]](https://youtu.be/mxfj5Jg206A)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.10-Multiple_CAM_Dashboard_with_HTTPS_WSS)
