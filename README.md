@@ -2,7 +2,7 @@
 
 Implement your project in an exquisite combination of hardware and software.
   
-* [Youtube Channel](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w) 
+* [Youtube Channel](https://youtube.com/c/ThatProject) 
 
 ## NodeMCU(ESP8266) Projects
 * [Youtube NodeMCU(ESP8266) Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAxh2Sr-vKQYxeyW7a6qje7x) 
@@ -24,6 +24,9 @@ Implement your project in an exquisite combination of hardware and software.
 ## ESP32 Projects
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
+
+* [💬Chat App | ESP32 + ESP-NOW + LVGL7 | Part 2/2 - ESP-NOW bidirectional Comm (Primary - Secondary)
+][[Video]](https://youtu.be/Kpqz00_IzTc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ChatApp_LVGL7/Step_2_ESP-NOW)
 
 * [💬Chat App | ESP32 + ESP-NOW + LVGL7 | Part 1/2 - LVGL UI Layout][[Video]](https://youtu.be/zRLQPF5417Y)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ChatApp_LVGL7/Step_1_UI)
 
