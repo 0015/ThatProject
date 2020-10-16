@@ -1,0 +1,17 @@
+{
+  "C_Cpp.clang_format_style": "Visual Studio",
+  "editor.formatOnSave": false,
+  "[cpp]": {
+    "editor.quickSuggestions": true
+  },
+  "[c]": {
+    "editor.quickSuggestions": true
+  },
+  "C_Cpp.intelliSenseEngine":"Tag Parser",
+  "C_Cpp.intelliSenseEngineFallback": "Enabled",
+  "idf.port": "/dev/cu.wchusbserial14120",
+  "files.associations": {
+    "freertos.h": "c",
+    "task.h": "c"
+  }
+}
