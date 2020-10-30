@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | BLE HID - Camera Shutter App for the smartphone [Part. 3/3 ADD BLE HID]][[Video]](https://youtu.be/I6rlpXpBimc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ESP-IDF_Camera_Timer_For_Smartphone_LVGL7/Part.3/camera_timer_ble_hid)
+
 * [ESP32 | BLE HID - Camera Shutter App for the smartphone [Part. 2/3 UI Design in LVGL]][[Video]](https://youtu.be/IQsND5MwSEQ)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ESP-IDF_Camera_Timer_For_Smartphone_LVGL7/Part.2/camera_timer_ble_hid)
 
 * [ESP32 | BLE HID - Camera Shutter App for the smartphone [Part. 1/3 LVGL on ESP-IDF]][[Video]](https://youtu.be/7-QiGUAWkys)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ESP-IDF_Camera_Timer_For_Smartphone_LVGL7/Part.1/camera_timer_ble_hid)
