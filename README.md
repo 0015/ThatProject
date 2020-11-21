@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | MPU6050 - Using MahonyAHRS (ft. dice)][[Video]](https://youtu.be/UgROd5juFtM)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/Esp32_MPU6050_MahonyARHS)
+
 * [ESP32 | BLE HID - Camera Shutter App for the smartphone [Part. 3/3 ADD BLE HID]][[Video]](https://youtu.be/I6rlpXpBimc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ESP-IDF_Camera_Timer_For_Smartphone_LVGL7/Part.3/camera_timer_ble_hid)
 
 * [ESP32 | BLE HID - Camera Shutter App for the smartphone [Part. 2/3 UI Design in LVGL]][[Video]](https://youtu.be/IQsND5MwSEQ)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/ESP-IDF_Camera_Timer_For_Smartphone_LVGL7/Part.2/camera_timer_ble_hid)
