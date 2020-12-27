@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [[ESP32 TTGO] Getting Started! #StartingLine #BasicSetup (ft. Image Animation)][[Video]](https://youtu.be/Bl1C7Vdl3GA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/AnimationImage)
+
 * [Toy Camera = ESP32CAM + ILI9488 + LVGL7 | Part 2, LVGL Configure #ESP32CAM #TOYCAM][[Video]](https://youtu.be/K4VEvUVOkG0)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_TOY_CAMERA/PART2)
 
 * [Toy Camera = ESP32CAM + ILI9488 + LVGL7 | Part 1, Live Feed Display #ESP32CAM #TOYCAM][[Video]](https://youtu.be/K5Tr0AjK-Uc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_TOY_CAMERA/PART1)
