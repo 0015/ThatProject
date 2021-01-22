@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [[ESP32TTGO x ESP32CAM] Wi-Fi Direct! Output images of ESP32CAM to TTGO display. (ft. WebSocket)][[Video]](https://youtu.be/OdEmfRKDJts)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/ESP32CAM_WiFi_Direct)
+
 * [[ESP32 TTGO] My hardware key to operate my app (Ep.2/2 - Completing App)][[Video]](https://youtu.be/aGuBQSU2oMs)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/my_hardware_key_demo_app)
 
 * [[ESP32 TTGO] Getting Started! #StartingLine #BasicSetup (ft. Image Animation)][[Video]](https://youtu.be/Bl1C7Vdl3GA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/AnimationImage)
