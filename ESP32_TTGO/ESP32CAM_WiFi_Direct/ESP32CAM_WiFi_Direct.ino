@@ -64,7 +64,7 @@ void loop() {
     WebsocketsMessage msg = client.readBlocking();
     uint32_t t = millis();
     
-    TJpgDec.drawJpg(-30, yPos, (const uint8_t*)msg.c_str(), msg.length());
+    TJpgDec.drawJpg(-40, yPos, (const uint8_t*)msg.c_str(), msg.length());
     
     t = millis() - t;
     Serial.print(t); Serial.println(" ms");
