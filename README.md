@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [[ESP32TTGO x ESP32CAM] Which One Is Faster? RGB565 vs. JPEG (ft. Dedicated JPEG Decoder)][[Video]](https://youtu.be/aD3C-mGh7I8)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/ESP32CAM_WiFi_Direct_v2_Faster)
+
 * [[ESP32TTGO x ESP32CAM] Wi-Fi Direct! Output images of ESP32CAM to TTGO display. (ft. WebSocket)][[Video]](https://youtu.be/OdEmfRKDJts)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/ESP32CAM_WiFi_Direct)
 
 * [[ESP32 TTGO] My hardware key to operate my app (Ep.2/2 - Completing App)][[Video]](https://youtu.be/aGuBQSU2oMs)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/my_hardware_key_demo_app)
