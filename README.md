@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 Bluetooth LE Secure Server for multi clients (ft. PassKey)][[Video]](https://youtu.be/TwexLJwdLEw)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/BLE_Secure_Server)
+
 * [ESP32TTGO - Battery Indicator 🔋⚡][[Video]](https://youtu.be/osAOdmZuvDc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/TTGO_Battery_Indicator)
 
 * [ESP32TTGO | INMP441 - Drawing a meter bar for sound level display (ft. TFT_eFEX)][[Video]](https://youtu.be/IqXVAG8ssjg)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/INMP441_MeterBarForSoundLevel)
