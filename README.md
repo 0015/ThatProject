@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | Walkie-Talkie, Half-duplex communication based on WebSocket][[Video]](https://youtu.be/kw30vLdrGE8)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/Walkie-Talkie_Project)
+
 * [Wireless Wiretap System using 2x ESP32, INMP441 & MAX98357A][[Video]](https://youtu.be/5q5a5pee4ZQ)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/Wiretap_INMP441_MAX98357A_via_websocket)
 
 * [ESP32 Bluetooth LE Secure Server for multi clients (ft. PassKey)][[Video]](https://youtu.be/TwexLJwdLEw)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/BLE_Secure_Server)
