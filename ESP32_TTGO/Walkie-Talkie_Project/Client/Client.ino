@@ -191,7 +191,7 @@ void display_ready_screen(){
   tft.setTextDatum(MC_DATUM);
   tft.setFreeFont(FF21);
   tft.setTextColor(TFT_WHITE, TFT_BLACK);
-  tft.drawString(deviceRole == Server ? "[Server Ready]" : "[Clinet Ready]", tft.width()/2, 100, GFXFF);
+  tft.drawString(deviceRole == Server ? "[Server Ready]" : "[Client Ready]", tft.width()/2, 100, GFXFF);
 }
 
 void print_log_screen(String text){
