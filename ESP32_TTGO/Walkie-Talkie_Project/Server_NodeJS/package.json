@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "audio-speaker": "^1.5.1",
+    "express": "^4.17.1",
+    "package.json": "^2.0.1",
+    "ws": "^7.4.4"
+  }
+}
