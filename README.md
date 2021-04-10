@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [GY-BNO055 | Ep.0: Connecting with ESP32 TTGO via I2C (ft. Heading Direction)][[Video]](https://youtu.be/dgCpOPEA6ZM)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_TTGO/GY-BNO055/TTGO_GY-BNO055_Heading)
+
 * [ESP32 | Walkie-Talkie based on Node.js Server for multi-clients (ft. PCM speaker)][[Video]](https://youtu.be/vq7mPgecGKA)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_TTGO/Walkie-Talkie_Project/Server_NodeJS)
 
 * [ESP32 | Walkie-Talkie, Half-duplex communication based on WebSocket][[Video]](https://youtu.be/kw30vLdrGE8)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/Walkie-Talkie_Project)
