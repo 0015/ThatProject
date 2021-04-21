@@ -49,9 +49,9 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [[ESP32 TTGO] Getting Started! #StartingLine #BasicSetup (ft. Image Animation)][[Video]](https://youtu.be/Bl1C7Vdl3GA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_TTGO/AnimationImage)
 
-* [Toy Camera = ESP32CAM + ILI9488 + LVGL7 | Part 2, LVGL Configure #ESP32CAM #TOYCAM][[Video]](https://youtu.be/K4VEvUVOkG0)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_TOY_CAMERA/PART2)
+* [Toy Camera = ESP32CAM + ILI9488 + LVGL7 | Part 2, LVGL Configure #ESP32CAM #TOYCAM][[Video]](https://youtu.be/K4VEvUVOkG0)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_TOY_CAMERA/PART2)
 
-* [Toy Camera = ESP32CAM + ILI9488 + LVGL7 | Part 1, Live Feed Display #ESP32CAM #TOYCAM][[Video]](https://youtu.be/K5Tr0AjK-Uc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_TOY_CAMERA/PART1)
+* [Toy Camera = ESP32CAM + ILI9488 + LVGL7 | Part 1, Live Feed Display #ESP32CAM #TOYCAM][[Video]](https://youtu.be/K5Tr0AjK-Uc)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_TOY_CAMERA/PART1)
 
 * [ESP32 | MPU6050 | MahonyAHRS - Adding BLE module(ft. String vs Float)][[Video]](https://youtu.be/lpnG7K0-E88)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/Esp32_MPU6050_MahonyARHS)
 
@@ -70,11 +70,11 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [ESP32 Dynamic WIFI configuration GUI using LVGL7.x][[Video]](https://youtu.be/AvJms6_Pf_o)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/DynamicWIFIConnector_LVGL7)
 
-* [ESP32 CAM with Arduino IDE | Tutorial - [Part.10] Multiple CAM Secure Dashboard (ft. HTTPS, WSS)🔒][[Video]](https://youtu.be/mxfj5Jg206A)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.10-Multiple_CAM_Dashboard_with_HTTPS_WSS)
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.10] Multiple CAM Secure Dashboard (ft. HTTPS, WSS)🔒][[Video]](https://youtu.be/mxfj5Jg206A)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_MULTICAM/Part.10-Multiple_CAM_Dashboard_with_HTTPS_WSS)
 
-* [ESP32 CAM with Arduino IDE | Tutorial - [Part.9] Multiple CAM Dashboard With New Features (ft. ⏯️🔴💾)][[Video]](https://youtu.be/ba9NLj0FKRU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.9-Multiple_CAM_Dashboard_with_new_features)
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.9] Multiple CAM Dashboard With New Features (ft. ⏯️🔴💾)][[Video]](https://youtu.be/ba9NLj0FKRU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_MULTICAM/Part.9-Multiple_CAM_Dashboard_with_new_features)
 
-* [ESP32 CAM with Arduino IDE | Tutorial - [Part.8] Multiple CAM Dashboard (ft. Modified Jpeg Header)][[Video]](https://youtu.be/rTY2Ibk-gco)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_MULTICAM/Part.8-Multiple_CAM_Dashboard)
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.8] Multiple CAM Dashboard (ft. Modified Jpeg Header)][[Video]](https://youtu.be/rTY2Ibk-gco)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_MULTICAM/Part.8-Multiple_CAM_Dashboard)
 
 * [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Generate your own QR code and display it on the SSD1351🔲][[Video]](https://youtu.be/7HLh-7vONT4)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_SSD1351_QR_BT_SERIAL)
 
@@ -84,7 +84,7 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [ESP32 | BLUETOOTH CLASSIC | FLUTTER - Let's build BT Serial based on the examples. (Ft. Chat App)][[Video]](https://youtu.be/WUw-_X66dLE)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_BT_CLASSIC/ESP32_BLUETOOTH_SERIAL_DEMO)
 
-* [ESP32CAM | INMP441 - Doorbell🚪🔔 Project Rev.1 (Ft. Telegram)][[Video]](https://youtu.be/Fj21iHHUvf4)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_DOORBELL/Rev.1)
+* [ESP32CAM | INMP441 - Doorbell🚪🔔 Project Rev.1 (Ft. Telegram)][[Video]](https://youtu.be/Fj21iHHUvf4)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_DOORBELL/Rev.1)
 
 * [ESP32 | INMP441 | Tutorial - [Part.5] Speech-to-Text Powered by Google Cloud machine learning][[Video]](https://youtu.be/RZVzZfndIS0)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_MICROPHONE/ESP32_INMP441_SPEECH_TO_TEXT)
 
@@ -104,19 +104,19 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [ESP32 | LittlevGL | Arduino IDE - [Part.0] Touch Display Setup for Simple Note App📝][[Video]](https://youtu.be/OXUZEHMFFwc)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_LVGL/SimpleNoteAPP_LVGL6/Part0)
 
-* [ESP32 CAM | Google Vision - [Part.7] AI Camera📷🔥(Image labeling)][[Video]](https://youtu.be/bpCCqerQ56o)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_AICamera_Labelling)
+* [ESP32 CAM | Google Vision - [Part.7] AI Camera📷🔥(Image labeling)][[Video]](https://youtu.be/bpCCqerQ56o)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_AICamera_Labelling)
 
-* [ESP32 CAM | Flutter App - [Part.6] In wireless directly, a mobile app connecting ESP32CAM (Dash Cam)][[Video]](https://youtu.be/6FUbo9HRCoU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_Dashcam_FLUTTER)
+* [ESP32 CAM | Flutter App - [Part.6] In wireless directly, a mobile app connecting ESP32CAM (Dash Cam)][[Video]](https://youtu.be/6FUbo9HRCoU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_Dashcam_FLUTTER)
 
-* [ESP32 CAM | Tutorial - [Part.5] In wireless directly, connecting ESP32CAM to ESP32 (feat. TFT LCD)][[Video]](https://youtu.be/TfuEI1-YrsA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_WIFI_CONNECT)
+* [ESP32 CAM | Tutorial - [Part.5] In wireless directly, connecting ESP32CAM to ESP32 (feat. TFT LCD)][[Video]](https://youtu.be/TfuEI1-YrsA)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_WIFI_CONNECT)
 
-* [ESP32 CAM with Flutter | Tutorial - [Part.4] Video Recording with FFmpeg (Baby Monitor)][[Video]](https://youtu.be/Z5vBs8Mk5rA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_Xiaomi_Clone_FLUTTER/flutter_xiaomi_clone_app_ffmpeg)
+* [ESP32 CAM with Flutter | Tutorial - [Part.4] Video Recording with FFmpeg (Baby Monitor)][[Video]](https://youtu.be/Z5vBs8Mk5rA)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_Xiaomi_Clone_FLUTTER/flutter_xiaomi_clone_app_ffmpeg)
 
-* [ESP32 CAM with Flutter | Tutorial - [Part.3] Xiaomi YI Home App Clone (Baby Monitor)][[Video]](https://youtu.be/9GyOTlOGjSA)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_Xiaomi_Clone_FLUTTER/flutter_xiaomi_clone_app)
+* [ESP32 CAM with Flutter | Tutorial - [Part.3] Xiaomi YI Home App Clone (Baby Monitor)][[Video]](https://youtu.be/9GyOTlOGjSA)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_Xiaomi_Clone_FLUTTER/flutter_xiaomi_clone_app)
 
-* [ESP32 CAM with Arduino IDE | Tutorial - [Part.2] World Wide Access to ESP32CAM (feat. GCP)][[Video]](https://youtu.be/CpIkG9N5-JM)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_GoogleCloudServer)
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.2] World Wide Access to ESP32CAM (feat. GCP)][[Video]](https://youtu.be/CpIkG9N5-JM)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_GoogleCloudServer)
 
-* [ESP32 CAM with Arduino IDE | Tutorial - [Part.1] Streaming into the local network][[Video]](https://youtu.be/kE0idrJYPII)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_CAM_LocalServer)
+* [ESP32 CAM with Arduino IDE | Tutorial - [Part.1] Streaming into the local network][[Video]](https://youtu.be/kE0idrJYPII)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_LocalServer)
 
 * [ESP32 | FLUTTER | FIRESTORE - Dust Sensor, A simple Air Monitor App (Serverless REST API with Firestore)][[Video]](https://youtu.be/Z8ju93IYZ1A)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP32_dust_sensor_firestore_FLUTTER)
 
