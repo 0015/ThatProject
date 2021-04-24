@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32CAM | Android(Flutter App) Wired Communication - Baud Rate Test [1/2]][[Video]](https://youtu.be/Mod9gX7NWA8)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/WIRED_ESP32_CAM_w:FlutterApp/Part.1_BaudRateTest)
+
 * [What's different TTGO T-Camera Plus vs ESP32CAM AI-THINKER?][[Video]](https://youtu.be/ixtT7kt4YdI)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_TTGO/TTGO_T-Camera/CameraWebServerForTCamera)
 
 * [GY-BNO055 | Ep.0: Connecting with ESP32 TTGO via I2C (ft. Heading Direction)][[Video]](https://youtu.be/dgCpOPEA6ZM)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_TTGO/GY-BNO055/TTGO_GY-BNO055_Heading)
