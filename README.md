@@ -25,7 +25,9 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
-* [ESP32CAM | Android(Flutter App) Wired Communication - Baud Rate Test [1/2]][[Video]](https://youtu.be/Mod9gX7NWA8)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/WIRED_ESP32_CAM_w:FlutterApp/Part.1_BaudRateTest)
+* [ESP32CAM | Android(Flutter App) Wired Communication - Base64 Encoding/Decoding [2/2]][[Video]](https://youtu.be/-jygTxRmroA)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/WIRED_ESP32_CAM_with_FlutterApp/Part.2_FlutterAppForSerialCam)
+
+* [ESP32CAM | Android(Flutter App) Wired Communication - Baud Rate Test [1/2]][[Video]](https://youtu.be/Mod9gX7NWA8)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/WIRED_ESP32_CAM_with_FlutterApp/Part.1_BaudRateTest)
 
 * [What's different TTGO T-Camera Plus vs ESP32CAM AI-THINKER?][[Video]](https://youtu.be/ixtT7kt4YdI)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_TTGO/TTGO_T-Camera/CameraWebServerForTCamera)
 
@@ -152,31 +154,6 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [ESP32 Project - Fast Jpeg images in 3.2-inch TFT LCD (ILI9341)][[Video]](https://youtu.be/4eD6recBq4M)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/Esp32_jpeg)
 
-
-### Prerequisites
-
-[Hardware]
-- WEMOS LOLIN32 Lite
-- 3.2 inch 320*240 SPI Serial TFT LCD Module Display Screen with Touch Panel Driver IC ILI9341 for MCU
-- 3.5 inch 480*320 SPI Serial TFT LCD Module Display Screen with Touch Panel Driver IC ILI9488 for MCU
-- Serial SPI 1.5"Color OLED Display 128x128 Graphic Module, SSD1351
-- DHT11 basic temperature-humidity sensor
-- GeeekNET ESP32 Development Board
-- Ultrasonic Sensor US-020 Distance Measuring Module
-- NodeMCU, ESP8266
-- BN-282 GPS Module
-
-## Built With
-
-* [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
-* [Adafruit SSD1351 Arduino Library](https://github.com/adafruit/Adafruit-SSD1351-library)
-* [Adafruit ILI9341 Driver](https://github.com/adafruit/Adafruit_ILI9341/)
-* [Arduino esp32fs plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin/releases)
-* [Arduino JPEGDecoder library](https://github.com/Bodmer/JPEGDecoder)
-* [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
-* [Arduino TJpg_Decoder library](https://github.com/Bodmer/TJpg_Decoder)
-
-
 ### Created & Maintained By
 
 [Eric Nam](https://github.com/0015)
@@ -185,7 +162,7 @@ Implement your project in an exquisite combination of hardware and software.
 
 ## License
 
-Copyright 2020 Eric N
+Copyright 201 Eric N
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
