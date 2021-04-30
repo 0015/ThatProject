@@ -2,7 +2,7 @@
 /*
   ESP32CAM | Android(Flutter App) Wired Communication - Baud Rate Test [1/2]
   https://youtu.be/Mod9gX7NWA8
-  Created by Eric Nam (ThatProject)
+  Created by Eric N. (ThatProject)
 */
 /////////////////////////////////////////////////////////////////
 
