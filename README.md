@@ -25,7 +25,9 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
-* [ESP32 | Multi-Touch Test(ft. FT6236)][[Video]](https://youtu.be/8sp4LKYSdEk)[[Source Code]](https://youtu.be/8sp4LKYSdEk)
+* [ESP32 | LVGL7 = My Shortcuts for Windows 10 = (ft. BLE HID Keyboard)][[Video]](https://youtu.be/EWKAyQBdcYM)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/MyShortcuts_LVGL7)
+
+* [ESP32 | Multi-Touch Test(ft. FT6236)][[Video]](https://youtu.be/8sp4LKYSdEk)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MultiTouch_FT6236/GetTouchEvent)
 
 * [ESP32CAM | Android(Flutter App) Wired Communication - Base64 Encoding/Decoding [2/2]][[Video]](https://youtu.be/-jygTxRmroA)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/WIRED_ESP32_CAM_with_FlutterApp/Part.2_FlutterAppForSerialCam)
 
