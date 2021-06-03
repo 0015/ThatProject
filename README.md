@@ -25,6 +25,8 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [AWS IoT | How to install Mosquitto Broker on Amazon EC2][[Video]](https://youtu.be/SDrkv2hUzAc)[[Template Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/0_AWS_Mosquitto_Test)
+
 * [ESP32 | LVGL7 = My Shortcuts for Windows 10 = (ft. BLE HID Keyboard)][[Video]](https://youtu.be/EWKAyQBdcYM)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/MyShortcuts_LVGL7)
 
 * [ESP32 | Multi-Touch Test(ft. FT6236)][[Video]](https://youtu.be/8sp4LKYSdEk)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MultiTouch_FT6236/GetTouchEvent)
