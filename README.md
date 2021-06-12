@@ -1,29 +1,16 @@
 # That Project
 
-Implement your project in an exquisite combination of hardware and software.
+Welcome to my project repository. 
+The source code for each project can be downloaded here, and please refer to the below video for the project tutorial.
+Thank you.
   
 * [Youtube Channel](https://youtube.com/c/ThatProject) 
-
-## NodeMCU(ESP8266) Projects
-* [Youtube NodeMCU(ESP8266) Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAxh2Sr-vKQYxeyW7a6qje7x) 
-
-* [Twitter Hash Search Application with #️⃣NodeMCU(ESP8266) #️⃣ILI9341][[Video]](https://youtu.be/lhOlv6Y4_vw)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_Twitter_Hash_Search)
-
-* [FIREBASE | FLUTTER | Stream builder from Realtime DB to Flutter(iOS, Android)][[Video]](https://youtu.be/uoQtH2IYBCU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP_TO_FLUTTER/flutter_realtime_dht11)
-
-* [FIREBASE | Streaming from ESP32 to ESP8266(Ft. DHT11 - Temperature, Humidity & Heat Index)][[Video]](https://youtu.be/-iKCn9lTD2Q)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP32_TO_ESP8266)
-
-* [ESP-NOW | Communication between NodeMCU(ESP8266) as [Master] and two ESP32 as [Slave]][[Video]](https://youtu.be/F_h22AXZ7ts)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESPNOW/ESPNOW_ESP8266_MASTER_ESP32_SLAVE)
-
-* [NodeMCU(ESP8266) | GPS | CSV Data Logging - GPS Tracker (feat. GPS Visualizer)🛰️][[Video]](https://youtu.be/edD3X6KG8AE)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GPS_DATA_LOG/ESP8266_GPS_TRACKER)
-
-* [NodeMCU(ESP8266) | GPS | ILI9488 - Showing Google Map with Device Position on Display🗺️][[Video]](https://youtu.be/lQ157ftTnSs)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GOOGLEMAP_GPS)
-
-* [NodeMCU(ESP8266) | GPS | ILI9488 - Showing the Latitude and Longitude on Display][[Video]](https://youtu.be/9wrHhbfYFXg)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_BASIC_GPS)
 
 ## ESP32 Projects
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
+
+* [AWS IoT | ESP32CAM working as a publisher on MQTT][[Video]](https://youtu.be/7_3qbou_keg)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/1_ESP32CAM_AWSMQTT)
 
 * [AWS IoT | How to install Mosquitto Broker on Amazon EC2][[Video]](https://youtu.be/SDrkv2hUzAc)[[Template Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/0_AWS_Mosquitto_Test)
 
@@ -160,15 +147,35 @@ Implement your project in an exquisite combination of hardware and software.
 
 * [ESP32 Project - Fast Jpeg images in 3.2-inch TFT LCD (ILI9341)][[Video]](https://youtu.be/4eD6recBq4M)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/Esp32_jpeg)
 
+
+## NodeMCU(ESP8266) Projects
+* [Youtube NodeMCU(ESP8266) Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAxh2Sr-vKQYxeyW7a6qje7x) 
+
+* [Twitter Hash Search Application with #️⃣NodeMCU(ESP8266) #️⃣ILI9341][[Video]](https://youtu.be/lhOlv6Y4_vw)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_Twitter_Hash_Search)
+
+* [FIREBASE | FLUTTER | Stream builder from Realtime DB to Flutter(iOS, Android)][[Video]](https://youtu.be/uoQtH2IYBCU)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP_TO_FLUTTER/flutter_realtime_dht11)
+
+* [FIREBASE | Streaming from ESP32 to ESP8266(Ft. DHT11 - Temperature, Humidity & Heat Index)][[Video]](https://youtu.be/-iKCn9lTD2Q)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/FIREBASE/STREAMING_FROM_ESP32_TO_ESP8266)
+
+* [ESP-NOW | Communication between NodeMCU(ESP8266) as [Master] and two ESP32 as [Slave]][[Video]](https://youtu.be/F_h22AXZ7ts)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESPNOW/ESPNOW_ESP8266_MASTER_ESP32_SLAVE)
+
+* [NodeMCU(ESP8266) | GPS | CSV Data Logging - GPS Tracker (feat. GPS Visualizer)🛰️][[Video]](https://youtu.be/edD3X6KG8AE)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GPS_DATA_LOG/ESP8266_GPS_TRACKER)
+
+* [NodeMCU(ESP8266) | GPS | ILI9488 - Showing Google Map with Device Position on Display🗺️][[Video]](https://youtu.be/lQ157ftTnSs)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_GOOGLEMAP_GPS)
+
+* [NodeMCU(ESP8266) | GPS | ILI9488 - Showing the Latitude and Longitude on Display][[Video]](https://youtu.be/9wrHhbfYFXg)[[Source Code]](https://github.com/0015/IdeasNProjects/tree/master/ESP8266_BASIC_GPS)
+
+
 ### Created & Maintained By
 
 [Eric Nam](https://github.com/0015)
 ([Youtube](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w))
+([Facebook](https://www.facebook.com/groups/138965931539175))
 
 
 ## License
 
-Copyright 201 Eric N
+Copyright 2019 - 2021 Eric N
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
