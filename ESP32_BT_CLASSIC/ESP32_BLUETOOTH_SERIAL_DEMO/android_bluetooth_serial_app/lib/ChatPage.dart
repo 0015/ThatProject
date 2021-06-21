@@ -1,13 +1,14 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:typed_data';
+
 import 'package:flutter/material.dart';
 import 'package:flutter_bluetooth_serial/flutter_bluetooth_serial.dart';
 
 class ChatPage extends StatefulWidget {
   final BluetoothDevice server;
 
-  const ChatPage({this.server});
+  const ChatPage({required this.server});
 
   @override
   _ChatPage createState() => new _ChatPage();
@@ -22,9 +23,9 @@ class _Message {
 
 class _ChatPage extends State<ChatPage> {
   static final clientID = 0;
-  BluetoothConnection connection;
+  var connection; //BluetoothConnection
 
-  List<_Message> messages = List<_Message>();
+  List<_Message> messages = [];
   String _messageBuffer = '';
 
   final TextEditingController textEditingController =
@@ -32,8 +33,6 @@ class _ChatPage extends State<ChatPage> {
   final ScrollController listScrollController = new ScrollController();
 
   bool isConnecting = true;
-  bool get isConnected => connection != null && connection.isConnected;
-
   bool isDisconnecting = false;
 
   @override
@@ -73,7 +72,7 @@ class _ChatPage extends State<ChatPage> {
   @override
   void dispose() {
     // Avoid memory leak (`setState` after dispose) and disconnect
-    if (isConnected) {
+    if (isConnected()) {
       isDisconnecting = true;
       connection.dispose();
       connection = null;
@@ -112,7 +111,7 @@ class _ChatPage extends State<ChatPage> {
       appBar: AppBar(
           title: (isConnecting
               ? Text('Connecting chat to ' + widget.server.name + '...')
-              : isConnected
+              : isConnected()
                   ? Text('Live chat with ' + widget.server.name)
                   : Text('Chat log with ' + widget.server.name))),
       body: SafeArea(
@@ -135,12 +134,12 @@ class _ChatPage extends State<ChatPage> {
                       decoration: InputDecoration.collapsed(
                         hintText: isConnecting
                             ? 'Wait until connected...'
-                            : isConnected
+                            : isConnected()
                                 ? 'Type your message...'
                                 : 'Chat got disconnected',
                         hintStyle: const TextStyle(color: Colors.grey),
                       ),
-                      enabled: isConnected,
+                      enabled: isConnected(),
                     ),
                   ),
                 ),
@@ -148,7 +147,7 @@ class _ChatPage extends State<ChatPage> {
                   margin: const EdgeInsets.all(8.0),
                   child: IconButton(
                       icon: const Icon(Icons.send),
-                      onPressed: isConnected
+                      onPressed: isConnected()
                           ? () => _sendMessage(textEditingController.text)
                           : null),
                 ),
@@ -233,5 +232,9 @@ class _ChatPage extends State<ChatPage> {
         setState(() {});
       }
     }
+  }
+
+  bool isConnected() {
+    return connection != null && connection.isConnected;
   }
 }
