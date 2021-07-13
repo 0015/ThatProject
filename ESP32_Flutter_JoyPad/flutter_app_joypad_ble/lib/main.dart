@@ -7,11 +7,13 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_blue/flutter_blue.dart';
 
-Future<void> main() async {
-  await SystemChrome.setPreferredOrientations(
-      [DeviceOrientation.landscapeRight, DeviceOrientation.landscapeLeft]);
-
-  runApp(MainScreen());
+void main() {
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations(
+          [DeviceOrientation.landscapeRight, DeviceOrientation.landscapeLeft])
+      .then((_) {
+    runApp(MainScreen());
+  });
 }
 
 class MainScreen extends StatelessWidget {
@@ -120,11 +122,11 @@ class _JoyPadState extends State<JoyPad> {
     });
   }
 
-  writeData(String data) {
+  writeData(String data) async {
     if (targetCharacteristic == null) return;
 
     List<int> bytes = utf8.encode(data);
-    targetCharacteristic.write(bytes);
+    await targetCharacteristic.write(bytes);
   }
 
   @override
