@@ -1,3 +1,11 @@
+/////////////////////////////////////////////////////////////////
+/*
+  AWS IoT | Python MQTT Client for Multiple ESP32CAM
+  Video Tutorial: https://youtu.be/-0L0PrfuSEo
+  Created by Eric N. (ThatProject)
+*/
+/////////////////////////////////////////////////////////////////
+
 import io
 import queue
 import traceback

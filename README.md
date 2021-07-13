@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [AWS IoT | Python MQTT Client for Multiple ESP32CAM][[Video]](https://youtu.be/-0L0PrfuSEo)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/3_Python_MQTT_Client_App)
+
 * [AWS IoT | Flutter MQTT Client App [Full Version]][[Video]](https://youtu.be/aY7i0xnQW54)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/2_Flutter_MQTT_Client_App/mqtt_esp32cam_viewer_full_version)
 
 * [AWS IoT | Flutter MQTT Client App for macOS - UI Part (For Newbies)][[Video]](https://youtu.be/viGjd3VDlr4)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/2_Flutter_MQTT_Client_App/mqtt_esp32cam_viewer_ui_part)
