@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [OTA Solution - Build your own OTA platform (1/2, Preparing Python Flask API Server)][[Video]](https://youtu.be/_uTZad8RMZk)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_OTA/Simple_OTA_Solution/Python_Flask_REST_API_Server)
+
 * [AWS IoT | Python MQTT Client for Multiple ESP32CAM][[Video]](https://youtu.be/-0L0PrfuSEo)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/3_Python_MQTT_Client_App)
 
 * [AWS IoT | Flutter MQTT Client App [Full Version]][[Video]](https://youtu.be/aY7i0xnQW54)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_MQTT/2_Flutter_MQTT_Client_App/mqtt_esp32cam_viewer_full_version)
