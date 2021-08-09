@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | Cloud Firestore - Ep 0. Showing temp/humidity from DHT11 on TTGO display [Upgraded Version]][[Video]](https://youtu.be/aAUIlCWs_bc)[[Source Code]](https://github.com/0015/ThatProject/tree/master/FIREBASE/Cloud_Firestore_Application/0_ESP32TTGO_DHT11)
+
 * [OTA Solution - Build your own OTA platform (2/2, ESP32 OTA Application)][[Video]](https://youtu.be/oNFqwvYYWe4)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_OTA/Simple_OTA_Solution/Simple_OTA_Application)
 
 * [OTA Solution - Build your own OTA platform (1/2, Preparing Python Flask API Server)][[Video]](https://youtu.be/_uTZad8RMZk)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_OTA/Simple_OTA_Solution/Python_Flask_REST_API_Server)
