@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | Cloud Firestore - Ep 1. Firebase Setup ][[Video]](https://youtu.be/KV0D8nrsBLg)[[Source Code]](https://github.com/0015/ThatProject/tree/master/FIREBASE/Cloud_Firestore_Application/1_Network_Class)
+
 * [ESP32 | Cloud Firestore - Ep 0. Showing temp/humidity from DHT11 on TTGO display [Upgraded Version]][[Video]](https://youtu.be/aAUIlCWs_bc)[[Source Code]](https://github.com/0015/ThatProject/tree/master/FIREBASE/Cloud_Firestore_Application/0_ESP32TTGO_DHT11)
 
 * [OTA Solution - Build your own OTA platform (2/2, ESP32 OTA Application)][[Video]](https://youtu.be/oNFqwvYYWe4)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_OTA/Simple_OTA_Solution/Simple_OTA_Application)
