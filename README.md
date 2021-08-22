@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [Send an SMS from ESP32 (ft. Twilio)][[Video]](https://youtu.be/SP4pvYCQAfc)[[Source Code]](https://github.com/0015/ThatProject/tree/master/MESSAGE/Twilio/0_ESP32TTGO_FIRESTORE_SMS)
+
 * [ESP32 | Cloud Firestore - Ep 3. Status Icons on Display (The End)][[Video]](https://youtu.be/LR_FgObfuCw)[[Source Code]](https://github.com/0015/ThatProject/tree/master/FIREBASE/Cloud_Firestore_Application/3_Display_Done)
 
 * [ESP32 | Cloud Firestore - Ep 2. Firebase Client For ESP32][[Video]](https://youtu.be/KiF9uGFkA_o)[[Source Code]](https://github.com/0015/ThatProject/tree/master/FIREBASE/Cloud_Firestore_Application/2_Firebase_Client)
