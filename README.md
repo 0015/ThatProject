@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [Mini E-Paper | Ep1. Uploading Emoji to E-Paper from Flutter App (iOS & Android)][[Video]](https://youtu.be/pP9YXFNOBhY)[[Source Code]](https://github.com/0015/ThatProject/tree/master/E-Paper_Projects/01_Emoji2MiniE-Paper)
+
 * [IoT | Cloud Firestore - Ep 4. Firebase Client Flutter App for iOS and Android][[Video]](https://youtu.be/nsopdabOcug)[[Source Code]](https://github.com/0015/ThatProject/tree/master/FIREBASE/Cloud_Firestore_Application/4_iot_firestore_flutter_app)
 
 * [Send an SMS from ESP32 (ft. Twilio)][[Video]](https://youtu.be/SP4pvYCQAfc)[[Source Code]](https://github.com/0015/ThatProject/tree/master/MESSAGE/Twilio/0_ESP32TTGO_FIRESTORE_SMS)

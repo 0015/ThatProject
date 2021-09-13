@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////////////////
 /*
   Mini E-Paper | Ep1. Uploading Emoji to E-Paper from Flutter App(iOS & Android)
-  Video Tutorial: https://youtu.be/-RhEiKldfDc
+  Video Tutorial: https://youtu.be/pP9YXFNOBhY
   Created by Eric N. (ThatProject)
 */
 /////////////////////////////////////////////////////////////////
