@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
 
+* [ESP32 | LVGL8 | Ep 1. Demos with LILY PI][[Video]](https://youtu.be/kRTFc2vY5A8)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/1_LILYPI_ST7796_LovyanGFX)
+
 * [ESP32 | LVGL8 | Ep 0. GFX Setup (ft. LovyanGFX)][[Video]](https://youtu.be/IPCvQ4o_WP8)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/0_ILI9488_LovyanGFX)
 
 * [Mini E-Paper | Ep1. Uploading Emoji to E-Paper from Flutter App (iOS & Android)][[Video]](https://youtu.be/pP9YXFNOBhY)[[Source Code]](https://github.com/0015/ThatProject/tree/master/E-Paper_Projects/01_Emoji2MiniE-Paper)
