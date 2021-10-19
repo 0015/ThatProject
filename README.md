@@ -8,7 +8,9 @@ Thank you.
 
 ## ESP32 Projects
 
-* [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw) 
+* [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
+
+* [Tic Tac Camera Using ESP32CAM And Wireless Charging][[Video]](https://youtu.be/hteut2R8eQ0)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/TicTacCamera)
 
 * [ESP32 | LVGL8 | Ep 2. Shortcuts for Pull Stack Developer][[Video]](https://youtu.be/i4qrWbHXH3U)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/2_LILYPI_StackOverflow_BLE)
 
