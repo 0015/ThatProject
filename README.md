@@ -10,7 +10,9 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
 
-* [OV5640 for ESP32 Camera][[Video]](https://youtu.be/BCvOBMQSliY)
+* [Auto Focus with OV5640 on ESP32 AI-Thinker Board][[Video]](https://youtu.be/922BWy3OOoQ)
+
+* [OV5640 for ESP32 Camera (Compared to OV2640)][[Video]](https://youtu.be/BCvOBMQSliY)
 
 * [ESP32CAM | Sending images via UDP?][[Video]](https://youtu.be/1kHxd5FOUEU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32CAM_Projects/ESP32_CAM_UDP)
 
