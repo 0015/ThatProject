@@ -47,7 +47,7 @@ public:
     }
     {
       auto cfg = _light_instance.config();
-      cfg.pin_bl = 33;
+      cfg.pin_bl = -1;
       cfg.invert = false;
       cfg.freq = 44100;
       cfg.pwm_channel = 7;
