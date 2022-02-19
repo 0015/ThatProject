@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
 
+* [Creating Tesla's Website in SquareLine Studio (ESP32+LVGL)][[Video]](https://youtu.be/LrvqSjLzo44)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/01_Tesla_Single_Page)
+
 * [ESP32 + UWB | Warning sounds depending on the distance][[Video]](https://youtu.be/xrDvu8QT1Qs)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_UWB/1_My_Anchor_With_Audio)
 
 * [Not AirTag, But ESP32Tag][[Video]](https://youtu.be/_Bu3lw49m5s)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_UWB/0_ESP32TAG)
