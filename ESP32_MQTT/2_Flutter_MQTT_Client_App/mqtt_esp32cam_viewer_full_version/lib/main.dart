@@ -151,7 +151,7 @@ class _MQTTClientState extends State<MQTTClient> {
             final recMess =
                 mqttReceivedMessages![0].payload as MqttPublishMessage;
 
-            img.Image jpegImage = img.decodeJpg(recMess.payload.message!);
+            img.Image jpegImage = img.decodeJpg(recMess.payload.message) as img.Image;
 
             print(
                 'img width = ${jpegImage.width}, height = ${jpegImage.height}');
