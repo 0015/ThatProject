@@ -10,6 +10,8 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
 
+* [QR Code Maker (ESP32+LVGL8)][[Video]](https://youtu.be/Ss3zBO-V9kI)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/4_QR_Code_Maker)
+
 * [Part.2: Creating Tesla's Website in SquareLine Studio (ESP32+LVGL)][[Video]](https://youtu.be/7PXBPRm_8_Y)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/02_Tesla_Multi_Pages)
 
 * [Creating Tesla's Website in SquareLine Studio (ESP32+LVGL)][[Video]](https://youtu.be/LrvqSjLzo44)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/01_Tesla_Single_Page)
