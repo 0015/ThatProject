@@ -20,10 +20,18 @@ void setup() {
 void loop() {
 
   size_t bytesIn = 0;
-  esp_err_t result = i2s_read(I2S_PORT, sBuffer, sizeof(sBuffer), &bytesIn, portMAX_DELAY);
-  if (result == ESP_OK && bytesIn > 0)
+  esp_err_t result = i2s_read(I2S_PORT, &sBuffer, bufferLen, &bytesIn, portMAX_DELAY);
+  if (result == ESP_OK)
   {
-    Serial.println(bytesIn);  
+    int samples_read = bytesIn / 8;
+    if (samples_read > 0) {
+      float mean = 0;
+      for (int i = 0; i < samples_read; ++i) {
+        mean += (sBuffer[i]);
+      }
+      mean /= samples_read;
+      Serial.println(mean);
+    }
   }
 }
 
