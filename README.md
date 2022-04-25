@@ -4,16 +4,15 @@ Welcome to my project repository.
 The source code for each project can be downloaded here, and please refer to the below video for the project tutorial.
 Thank you.
   
-* [Youtube Channel](https://youtube.com/c/ThatProject) 
+* [Youtube Channel](https://youtube.com/ThatProject) 
 
 ## ESP32 Projects
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
 
-[<img align="left" src="https://i.ytimg.com/vi/vaYJydZcObU/hqdefault.jpg"/>](https://youtu.be/vaYJydZcObU)
+[<img align="center" src="https://i.ytimg.com/vi/vaYJydZcObU/hqdefault.jpg"/>](https://youtu.be/vaYJydZcObU)
 [My ESP32 Tag App for my own ESP32Tag Device!]
 [[Video]](https://youtu.be/vaYJydZcObU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_UWB/2_My-ESP32Tag-App)[[Google Play]](https://play.google.com/store/apps/details?id=com.thatproject.my_esp32tag)
-
 ---
 
 * [QR Code Maker (ESP32+LVGL8)][[Video]](https://youtu.be/Ss3zBO-V9kI)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/4_QR_Code_Maker)
@@ -225,13 +224,13 @@ Thank you.
 ### Created & Maintained By
 
 [Eric Nam](https://github.com/0015)
-([Youtube](https://www.youtube.com/channel/UCRr2LnXXXuHn4z0rBvpfG7w))
+([Youtube](https://www.youtube.com/ThatProject))
 ([Facebook](https://www.facebook.com/groups/138965931539175))
 
 
 ## License
 
-Copyright 2019 - 2021 Eric N
+Copyright 2019 - 2022 Eric N
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
