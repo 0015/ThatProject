@@ -10,7 +10,7 @@ Thank you.
 
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
 
-| ![My ESP32 Tag App for my own ESP32Tag Device!](/https://i.ytimg.com/vi/vaYJydZcObU/hqdefault.jpg) | [[Video]](https://youtu.be/vaYJydZcObU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_UWB/2_My-ESP32Tag-App)[[Google Play]](https://play.google.com/store/apps/details?id=com.thatproject.my_esp32tag) |
+| ![My ESP32 Tag App for my own ESP32Tag Device!](https://i.ytimg.com/vi/vaYJydZcObU/hqdefault.jpg) | [[Video]](https://youtu.be/vaYJydZcObU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_UWB/2_My-ESP32Tag-App)[[Google Play]](https://play.google.com/store/apps/details?id=com.thatproject.my_esp32tag) |
 
 * [QR Code Maker (ESP32+LVGL8)][[Video]](https://youtu.be/Ss3zBO-V9kI)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/4_QR_Code_Maker)
 
