@@ -14,6 +14,8 @@ Thank you.
 [My ESP32 Tag App for my own ESP32Tag Device!]
 [[Video]](https://youtu.be/vaYJydZcObU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_UWB/2_My-ESP32Tag-App)[[Google Play]](https://play.google.com/store/apps/details?id=com.thatproject.my_esp32tag)
 
+---
+
 * [QR Code Maker (ESP32+LVGL8)][[Video]](https://youtu.be/Ss3zBO-V9kI)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/4_QR_Code_Maker)
 
 * [Part.2: Creating Tesla's Website in SquareLine Studio (ESP32+LVGL)][[Video]](https://youtu.be/7PXBPRm_8_Y)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/02_Tesla_Multi_Pages)
