@@ -12,7 +12,7 @@ Thank you.
 
 <p align="left">
     <a href="https://youtu.be/gliwNg25fLE">
-        <img src="https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/5_System_Monitor/demo/demo.gif"/>
+        <img src="https://github.com/0015/ThatProject/blob/master/ESP32_LVGL/LVGL8/5_System_Monitor/demo/demo.gif"/>
     </a>
 </p>
 
