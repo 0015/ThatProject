@@ -11,12 +11,23 @@ Thank you.
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
 
 <p align="left">
+    <a href="https://youtu.be/gliwNg25fLE">
+        <img src="https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/5_System_Monitor/demo/demo.gif"/>
+    </a>
+</p>
+
+[Make your own System Monitor with ESP32 + LVGL 8]
+[[Video]](https://youtu.be/gliwNg25fLE)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/5_System_Monitor)
+---
+---
+
+<p align="left">
     <a href="https://youtu.be/zJvDw4UVDLc">
         <img src="https://i.ytimg.com/vi/zJvDw4UVDLc/hqdefault.jpg"/>
     </a>
 </p>
 
-[LoRa, GPS Data showing on the Map ]
+[LoRa, GPS Data showing on the Map]
 [[Video]](https://youtu.be/zJvDw4UVDLc)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32-LoRa/LoRa_GPS_Data_Viewer)[[Try here]](https://0015.github.io/LoRa_GPS_Viewer)
 ---
 ---
