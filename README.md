@@ -11,6 +11,17 @@ Thank you.
 * [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
 
 <p align="left">
+    <a href="https://youtu.be/2TOVohmUqOE">
+        <img src="https://github.com/0015/ThatProject/tree/master/ESP32_VideoPlayer/MiniLegoTV/demo/demo.gif"/>
+    </a>
+</p>
+
+[Mini Lego TV based on ESP32]
+[[Video]](https://youtu.be/2TOVohmUqOE)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_VideoPlayer/MiniLegoTV)
+---
+---
+
+<p align="left">
     <a href="https://youtu.be/gliwNg25fLE">
         <img src="https://github.com/0015/ThatProject/blob/master/ESP32_LVGL/LVGL8/5_System_Monitor/demo/demo.gif"/>
     </a>
