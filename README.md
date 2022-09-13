@@ -8,11 +8,9 @@ Thank you.
 
 ## ESP32 Projects
 
-* [Youtube ESP32 Project](https://www.youtube.com/playlist?list=PLnq7JUnBumAyhSBBp95MsQ5-chBAYheZw)
-
 <p align="left">
     <a href="https://youtu.be/2TOVohmUqOE">
-        <img src="https://github.com/0015/ThatProject/tree/master/ESP32_VideoPlayer/MiniLegoTV/demo/demo.gif"/>
+        <img src="https://github.com/0015/ThatProject/blob/master/ESP32_VideoPlayer/MiniLegoTV/demo/demo.gif"/>
     </a>
 </p>
 
