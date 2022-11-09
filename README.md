@@ -4,7 +4,7 @@ Welcome to my project repository.
 The source code for each project can be downloaded here, and please refer to the below video for the project tutorial.
 Thank you.
   
-* [Youtube Channel](https://youtube.com/ThatProject) 
+## [Youtube Channel](https://youtube.com/ThatProject) 
 
 ## ESP32/ESP32-S3 Projects
 
@@ -12,7 +12,13 @@ Thank you.
     <a href="https://youtu.be/J0AYSS8xxOY">
         <img src="https://github.com/0015/ThatProject/blob/master/ESP32_LVGL/LVGL8_SquareLine/03_Let's_build_a_GPS_Speedometer/demo/part_1_demo.gif"/>
     </a>
+    <a href="https://youtu.be/b_4m1A3A2yw">
+        <img src="https://github.com/0015/ThatProject/blob/master/ESP32_LVGL/LVGL8_SquareLine/03_Let's_build_a_GPS_Speedometer/demo/part_2_demo.gif"/>
+    </a>
 </p>
+
+[Developing Embedded GUI with SquareLine Studio [2/2]]
+[[Video]](https://youtu.be/b_4m1A3A2yw)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/03_Let's_build_a_GPS_Speedometer)
 
 [Let's build a GPS Speedometer with ESP32-S3 and BN-880Q(GPS, Compass) [1/2]]
 [[Video]](https://youtu.be/J0AYSS8xxOY)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/03_Let's_build_a_GPS_Speedometer)
