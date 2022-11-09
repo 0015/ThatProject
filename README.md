@@ -1,10 +1,8 @@
-# That Project
+# [That Project](https://youtube.com/@ThatProject) 
 
 Welcome to my project repository. 
 The source code for each project can be downloaded here, and please refer to the below video for the project tutorial.
-Thank you.
-  
-## [Youtube Channel](https://youtube.com/ThatProject) 
+Thank you. 
 
 ## ESP32/ESP32-S3 Projects
 
@@ -22,9 +20,8 @@ Thank you.
 
 [Let's build a GPS Speedometer with ESP32-S3 and BN-880Q(GPS, Compass) [1/2]]
 [[Video]](https://youtu.be/J0AYSS8xxOY)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/03_Let's_build_a_GPS_Speedometer)
----
----
 
+#
 
 <p align="left">
     <a href="https://youtu.be/2TOVohmUqOE">
@@ -34,8 +31,8 @@ Thank you.
 
 [Mini Lego TV based on ESP32]
 [[Video]](https://youtu.be/2TOVohmUqOE)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_VideoPlayer/MiniLegoTV)
----
----
+
+#
 
 <p align="left">
     <a href="https://youtu.be/gliwNg25fLE">
@@ -45,8 +42,8 @@ Thank you.
 
 [Make your own System Monitor with ESP32 + LVGL 8]
 [[Video]](https://youtu.be/gliwNg25fLE)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/5_System_Monitor)
----
----
+
+#
 
 <p align="left">
     <a href="https://youtu.be/zJvDw4UVDLc">
@@ -56,8 +53,9 @@ Thank you.
 
 [LoRa, GPS Data showing on the Map]
 [[Video]](https://youtu.be/zJvDw4UVDLc)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32-LoRa/LoRa_GPS_Data_Viewer)[[Try here]](https://0015.github.io/LoRa_GPS_Viewer)
----
----
+
+#
+
 <p align="left">
     <a href="https://youtu.be/vaYJydZcObU">
         <img src="https://i.ytimg.com/vi/vaYJydZcObU/hqdefault.jpg"/>
@@ -66,8 +64,8 @@ Thank you.
 
 [My ESP32 Tag App for my own ESP32Tag Device!]
 [[Video]](https://youtu.be/vaYJydZcObU)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_UWB/2_My-ESP32Tag-App)[[Google Play]](https://play.google.com/store/apps/details?id=com.thatproject.my_esp32tag)
----
----
+
+#
 
 * [QR Code Maker (ESP32+LVGL8)][[Video]](https://youtu.be/Ss3zBO-V9kI)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8/4_QR_Code_Maker)
 
