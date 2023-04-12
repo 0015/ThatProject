@@ -7,6 +7,17 @@ Thank you.
 ## ESP32/ESP32-S3 Projects
 
 <p align="left">
+    <a href="https://youtu.be/QDrJKkUJmFE">
+        <img src="https://github.com/0015/ThatProject/blob/master/ESP32_LVGL/LVGL8_SquareLine/04_Turntable_MP3_Player/demo/demo.gif"/>
+    </a>
+</p>
+
+[Creating Stunning Animations in MCU Using LVGL and SquareLine Studio with ESP32-S3]
+[[Video]](https://youtu.be/QDrJKkUJmFE)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32_LVGL/LVGL8_SquareLine/04_Turntable_MP3_Player)
+
+#
+
+<p align="left">
     <a href="https://youtu.be/kOYJ-4oZ8Ws">
         <img src="https://github.com/0015/ThatProject/blob/master/Cellular/T-SIMCAM/demo/T_SIMCAM.jpg"/>
     </a>
