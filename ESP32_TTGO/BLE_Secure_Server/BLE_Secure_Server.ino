@@ -1,3 +1,35 @@
+/////////////////////////////////////////////////////////////////
+/*
+  ESP32 Bluetooth LE Secure Server for multi clients (ft. PassKey)
+  For More Information: https://youtu.be/TwexLJwdLEw
+  Created by Eric N. (ThatProject)
+*/
+/////////////////////////////////////////////////////////////////
+
+// Updated: 2023-04-27
+// Arduino core for the ESP32: 2.0.8
+// https://github.com/espressif/arduino-esp32
+
+// TFT_eSPI: 2.5.0
+// https://github.com/Bodmer/TFT_eSPI
+
+// TJpg_Decoder: 1.0.8
+// https://github.com/Bodmer/TJpg_Decoder
+
+// arduino-esp32fs-plugin: 1.1
+// https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/
+
+// TFT_eSPI Display Setting
+// Open user_setup_select.h in Text Editor
+// Comment-> #include <User_Setup.h>  
+// Uncomment-> #include <User_Setups/Setup25_TTGO_T_Display.h>
+
+// SPIFFS Uploder Tool 
+// Downlaod https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/ 
+// Copy esp32fs.jar file to Arduino/tools/ESP32FS/tool/esp32fs.jar
+// Since the tool cannot be used in Arduino IDE 2.x, you must use Arduion IDE 1.x.
+
+
 #include <Pangodream_18650_CL.h>
 #include "SPIFFS.h" 
 #include <TFT_eSPI.h>
