@@ -7,6 +7,17 @@ Thank you.
 ## ESP32/ESP32-S3 Projects
 
 <p align="left">
+    <a href="https://youtu.be/4GVH3JicaPo">
+        <img src="https://github.com/0015/ThatProject/blob/master/ESP32-LoRa/misc/Chat_APP_SX1262.jpg"/>
+    </a>
+</p>
+
+[[USB-Serial] Android Phone + ESP32-LoRa Module + Chat App = Text Transceiver!]
+[[Video]](https://youtu.be/4GVH3JicaPo)[[Source Code]](https://github.com/0015/ThatProject/tree/master/ESP32-LoRa/Chat_APP_SX1262)
+
+#
+
+<p align="left">
     <a href="https://youtu.be/qq2FRv0lCPw">
         <img src="https://github.com/0015/ThatProject/blob/master/ESP32_MICROPHONE/Broadcasting_Your_Voice/thumbnail/project_thumbnail.jpg"/>
     </a>
