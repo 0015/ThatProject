@@ -6,6 +6,10 @@
 */
 /////////////////////////////////////////////////////////////////
 
+// 05-06-2024 
+// Code Updated - Network Class
+// Tested ESP32 Version - 2.0.16
+
 #include "DHTesp.h"  // Click here to get the library: http://librarymanager/All#DHTesp
 #include <Ticker.h>
 #include "Display.h"
